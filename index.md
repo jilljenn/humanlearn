@@ -1,16 +1,33 @@
 This workshop is colocated with the [ITS 2018](http://its2018.its-conferences.com) conference in Montréal on June 11–15.
 
-# Objectives
+# Motivation
 
 **What should we learn next?** In this current era where digital access to knowledge is cheap and user attention is expensive, a number of online applications have been developed for learning. These platforms collect a massive amount of data over various profiles, that can be used to improve learning experience: intelligent tutoring systems can infer what activities worked for different types of students in the past, and apply this knowledge to instruct new students. In order to learn effectively and efficiently, the experience should be adaptive: the sequence of activities should be tailored to the abilities and needs of each learner, in order to keep them stimulated and avoid boredom, confusion and dropout.
 
 Educational research communities have proposed models that predict mistakes and dropout, in order to detect students that need further instruction. There is now a need to design online systems that continuously learn as data flows, and self-assess their strategies when interacting with new learners. These models have been already deployed in online commercial applications (ex. streaming, advertising, social networks) for optimizing interaction, click-through-rate, or profit. Can we use similar methods to enhance the performance of teaching in order to promote lifetime success?
 
+We propose a 1 day workshop during the ITS 2018 conference to discuss the specific algorithmic and machine learning issues for optimizing human learning.
+
+# Program
+
+Tentative schedule : June, 11th
+
+- Keynote Speaker
+- coffee break
+- paper 1
+- paper 2
+- lunch
+- paper 3
+- paper 4
+- coffee break
+- paper 5
+- paper 6
+
 # Important Dates
 
 February 22
 
-:   Call for contributions open
+:   Call for papers open
 
 April 1
 
