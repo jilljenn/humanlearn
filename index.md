@@ -1,4 +1,4 @@
-This workshop is colocated with the [ITS 2018](http://its2018.its-conferences.com) conference in Montréal on June 11–15.
+We host a 1-day workshop colocated with the [ITS 2018](http://its2018.its-conferences.com) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
 
 # Motivation
 
@@ -6,22 +6,20 @@ This workshop is colocated with the [ITS 2018](http://its2018.its-conferences.co
 
 Educational research communities have proposed models that predict mistakes and dropout, in order to detect students that need further instruction. There is now a need to design online systems that continuously learn as data flows, and self-assess their strategies when interacting with new learners. These models have been already deployed in online commercial applications (ex. streaming, advertising, social networks) for optimizing interaction, click-through-rate, or profit. Can we use similar methods to enhance the performance of teaching in order to promote lifetime success?
 
-We propose a 1 day workshop during the ITS 2018 conference to discuss the specific algorithmic and machine learning issues for optimizing human learning.
-
 # Program
 
-Tentative schedule : June, 11th
+Tentative schedule for Tuesday, June 12, 2018:
 
-- Keynote Speaker
-- coffee break
-- paper 1
-- paper 2
-- lunch
-- paper 3
-- paper 4
-- coffee break
-- paper 5
-- paper 6
+- Keynote Speaker (TBA)
+- Coffee break
+- Paper 1
+- Paper 2
+- Lunch
+- Paper 3
+- Paper 4
+- Coffee break
+- Paper 5
+- Paper 6
 
 # Important Dates
 
@@ -43,6 +41,8 @@ Full papers
 
 :    Between 4 and 6 pages
 
+Submissions will be made through EasyChair.
+
 # Workshop Topics
 
 - How to put the student in optimal conditions to learn? e.g. incentives, companion agents, etc.
@@ -58,6 +58,17 @@ Full papers
 - What models of learning are relevant? E.g. cognitive models, modeling forgetting in spaced repetition.
 - What specific challenges from the ML point of view are we facing with these data?
 - Do we have enough datasets? What kinds of datasets are missing?
+
+# Datasets
+
+- Duolingo
+    - **[ongoing!]** [Shared Task on Second Language Acquisition Modeling (SLAM)](http://sharedtask.duolingo.com)
+    - [Half-Life Regression](https://github.com/duolingo/halflife-regression)
+- ASSISTments
+    - [2009–2015](https://sites.google.com/site/assistmentsdata/home/assistment-2009-2010-data)
+    - [2017 Longitudinal Data Mining Competition](https://sites.google.com/view/assistmentsdatamining)
+- [PLSC DataShop](http://pslcdatashop.web.cmu.edu)
+    - [KDD Cup 2010](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp)
 
 # Organizers
 
