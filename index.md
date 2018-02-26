@@ -35,6 +35,10 @@ April 16
 
 :   Notification for acceptance
 
+June 12
+
+:   Optimizing Human Learning Workshop
+
 # Call for Papers
 
 Full papers
