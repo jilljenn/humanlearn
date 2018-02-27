@@ -68,6 +68,9 @@ Submissions will be made through EasyChair.
 - Duolingo
     - **[ongoing!]** [Shared Task on Second Language Acquisition Modeling (SLAM)](http://sharedtask.duolingo.com)
     - [Half-Life Regression](https://github.com/duolingo/halflife-regression)
+- Mnemosyne
+    - [3GB Dataset](https://archive.org/details/20140127MnemosynelogsAll.db)
+    - [Leitner Queue Network](https://github.com/rddy/leitnerq)
 - ASSISTments
     - [2009–2015](https://sites.google.com/site/assistmentsdata/home/assistment-2009-2010-data)
     - [2017 Longitudinal Data Mining Competition](https://sites.google.com/view/assistmentsdatamining)
