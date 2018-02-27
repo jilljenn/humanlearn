@@ -23,7 +23,7 @@ Tentative schedule for Tuesday, June 12, 2018:
 
 # Important Dates
 
-February 22
+February 27
 
 :   Call for papers open
 
@@ -45,7 +45,7 @@ Full papers
 
 :    Between 4 and 6 pages
 
-Submissions will be made through EasyChair.
+Submissions can be made through [EasyChair](https://easychair.org/cfp/WeASeL2018).
 
 # Workshop Topics
 
