@@ -25,7 +25,7 @@ Tentative schedule for Tuesday, June 12, 2018:
 
 February 27
 
-:   Call for papers open
+:   Call for papers [open](https://easychair.org/cfp/WeASeL2018)
 
 April 1
 
