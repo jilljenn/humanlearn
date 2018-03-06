@@ -10,7 +10,7 @@ Educational research communities have proposed models that predict mistakes and 
 
 Tentative schedule for Tuesday, June 12, 2018:
 
-- Keynote Speaker (TBA)
+- Opening Keynote: [Masato Hagiwara](http://masatohagiwara.net), Duolingo
 - Coffee break
 - Paper 1
 - Paper 2
