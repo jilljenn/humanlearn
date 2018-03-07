@@ -6,13 +6,14 @@
                         Call for Papers
 -------------------------------------------------------------------------------
 
+                   Optimizing Human Learning
 1st International Workshop on eliciting Adaptive Sequences for Learning (WeASeL)
-Montréal (Canada), 12 June 2018
-https://humanlearn.io/
+                Montréal (Canada), 12 June 2018
+                    https://humanlearn.io/
 
 In conjunction with Intelligent Tutoring Systems (ITS) 2018
 11-15 June 2018, Montréal, Canada
-
+http://its2018.its-conferences.com/
 
 -------------------------------------------------------------------------------
                         Workshop Overview
@@ -81,10 +82,11 @@ Notification of Acceptance:     April 16th
 -------------------------------------------------------------------------------
 
 Full papers
+    Between 4 and 6 pages, LNCS format
+    http://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines
 
-    Between 4 and 6 pages
-
-Submissions can be made through EasyChair.
+Submissions can be made through EasyChair:
+    https://easychair.org/my/conference.cgi?conf=weasel2018
 
 -------------------------------------------------------------------------------
                         Workshop co-chairs
@@ -94,3 +96,12 @@ Fabrice Popineau, CentraleSupélec & LRI, France
 Michal Valko, Inria Lille, France
 Jill-Jênn Vie, RIKEN AIP, Japan
 
+-------------------------------------------------------------------------------
+Program Committee
+-------------------------------------------------------------------------------
+
+Fabrice Popineau, CentraleSupélec & LRI, France
+Arnaud Riegert, Didask, France
+Julien Seznec, lelivrescolaire.fr, France
+Michal Valko, Inria Lille, France
+Jill-Jênn Vie, RIKEN AIP, Japan
