@@ -45,7 +45,7 @@ Full papers
 
 :    Between 4 and 6 pages
 
-Submissions can be made through [EasyChair](https://easychair.org/cfp/WeASeL2018).
+Submissions can be made through [EasyChair](https://easychair.org/conferences/?conf=weasel2018).
 
 # Workshop Topics
 
