@@ -20,7 +20,7 @@ http://its2018.its-conferences.com/
 -------------------------------------------------------------------------------
 
 
-WHAT SHOULD WE LEARN NEXT? In this current era where digital access to
+What should we learn next? In this current era where digital access to
 knowledge is cheap and user attention is expensive, a number of online
 applications have been developed for learning. These platforms collect
 a massive amount of data over various profiles, that can be used to
@@ -97,7 +97,7 @@ Michal Valko, Inria Lille, France
 Jill-Jênn Vie, RIKEN AIP, Japan
 
 -------------------------------------------------------------------------------
-Program Committee
+                        Program Committee
 -------------------------------------------------------------------------------
 
 Fabrice Popineau, CentraleSupélec & LRI, France
