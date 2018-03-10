@@ -47,7 +47,7 @@ Full papers
 
 Submissions can be made through [EasyChair](https://easychair.org/conferences/?conf=weasel2018).
 
-Contact [Workshop Chair](mailto:weasel2018@easychair.org).
+Contact: [Workshop Chair](mailto:weasel2018@easychair.org).
 
 # Workshop Topics
 
