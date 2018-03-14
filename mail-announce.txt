@@ -2,22 +2,32 @@
 * Apologies for cross-posting *
 
 
--------------------------------------------------------------------------------
-                        Call for Papers
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+                                Call for Papers
+--------------------------------------------------------------------------------
 
-                   Optimizing Human Learning
+                           Optimizing Human Learning
 1st International Workshop on eliciting Adaptive Sequences for Learning (WeASeL)
-                Montréal (Canada), 12 June 2018
-                    https://humanlearn.io/
+                        Montréal (Canada), 12 June 2018
+                             https://humanlearn.io/
 
 In conjunction with Intelligent Tutoring Systems (ITS) 2018
 11-15 June 2018, Montréal, Canada
 http://its2018.its-conferences.com/
 
--------------------------------------------------------------------------------
-                        Workshop Overview
--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+                                Important Dates
+--------------------------------------------------------------------------------
+
+Submission deadline:             8 April 2018
+Notification of Acceptance:     16 April 2018
+Workshop date:                  12  June 2018
+
+
+--------------------------------------------------------------------------------
+                                  Description
+--------------------------------------------------------------------------------
 
 
 What should we learn next? In this current era where digital access to
@@ -43,9 +53,9 @@ click-through-rate, or profit. Can we use similar methods to enhance
 the performance of teaching in order to promote lifetime success?
 
 
--------------------------------------------------------------------------------
-                        Topics of Interest
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+                               Topics of Interest
+--------------------------------------------------------------------------------
 
 -   How to put the student in optimal conditions to learn? e.g. incentives,
     companion agents, etc.
@@ -69,17 +79,13 @@ the performance of teaching in order to promote lifetime success?
 -   Do we have enough datasets? What kinds of datasets are missing?
 
 
--------------------------------------------------------------------------------
-                        Important Dates
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+                                   Submission
+--------------------------------------------------------------------------------
 
-Submission deadline:            April 1st
-Notification of Acceptance:     April 16th
-
-
--------------------------------------------------------------------------------
-                        Submission
--------------------------------------------------------------------------------
+Short papers
+    Between 2 and 3 pages, LNCS format
+    http://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines
 
 Full papers
     Between 4 and 6 pages, LNCS format
@@ -88,17 +94,19 @@ Full papers
 Submissions can be made through EasyChair:
     https://easychair.org/my/conference.cgi?conf=weasel2018
 
--------------------------------------------------------------------------------
-                        Workshop co-chairs
--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+                                Workshop Chairs
+--------------------------------------------------------------------------------
 
 Fabrice Popineau, CentraleSupélec & LRI, France
 Michal Valko, Inria Lille, France
 Jill-Jênn Vie, RIKEN AIP, Japan
 
--------------------------------------------------------------------------------
-                        Program Committee
--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+                               Program Committee
+--------------------------------------------------------------------------------
 
 Fabrice Popineau, CentraleSupélec & LRI, France
 Arnaud Riegert, Didask, France
@@ -106,6 +114,10 @@ Julien Seznec, lelivrescolaire.fr, France
 Michal Valko, Inria Lille, France
 Jill-Jênn Vie, RIKEN AIP, Japan
 
-Hope to see you in Montreal in June !
 
-Jill-Jênn, Michal and Fabrice
+--------------------------------------------------------------------------------
+                                    Contact
+--------------------------------------------------------------------------------
+
+E-mail: weasel2018@easychair.org
+Web page: https://humanlearn.io/
