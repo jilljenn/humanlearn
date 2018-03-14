@@ -35,7 +35,7 @@ Tuesday, June 12, 2018
 
 # Important Dates
 
-April 8
+April 8, [AoE](https://www.timeanddate.com/time/zones/aoe)
 
 :   Deadline for [paper submissions](https://easychair.org/cfp/WeASeL2018)
 
@@ -57,7 +57,7 @@ Full papers
 
 :    Between 4 and 6 pages
 
-Submissions can be made through [EasyChair](https://easychair.org/conferences/?conf=weasel2018).
+Submissions can be made through [EasyChair](https://easychair.org/conferences/?conf=weasel2018) and should follow the [LNCS format](http://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines).
 
 # Workshop Topics
 
