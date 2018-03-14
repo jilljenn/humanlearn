@@ -1,0 +1,23 @@
+#hosts, #keynote {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+#keynote {
+    width: 220px;
+    margin: auto;
+    text-align: center;
+}
+
+.main-content #hosts > figure {
+    display: block;
+    text-align: center;
+    width: 200px;
+    margin: 1em 1em;
+    flex: auto;
+}
+
+.main-content figure > img {
+    max-width: 200px;
+}

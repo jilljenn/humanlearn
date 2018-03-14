@@ -1,5 +1,11 @@
 We host a 1-day workshop colocated with the [ITS 2018](http://its2018.its-conferences.com) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
 
+<div id="hosts">
+    <figure><img src="/static/img/aip.png" /></figure>
+    <figure><img src="/static/img/inria.jpg" /></figure>
+    <figure><img src="/static/img/cs.png" /></figure>
+</div>
+
 # Motivation
 
 **What should we learn next?** In this current era where digital access to knowledge is cheap and user attention is expensive, a number of online applications have been developed for learning. These platforms collect a massive amount of data over various profiles, that can be used to improve learning experience: intelligent tutoring systems can infer what activities worked for different types of students in the past, and apply this knowledge to instruct new students. In order to learn effectively and efficiently, the experience should be adaptive: the sequence of activities should be tailored to the abilities and needs of each learner, in order to keep them stimulated and avoid boredom, confusion and dropout.
@@ -8,18 +14,24 @@ Educational research communities have proposed models that predict mistakes and 
 
 # Program
 
-Tentative schedule for Tuesday, June 12, 2018:
+Tuesday, June 12, 2018
 
-- Opening Keynote: [Masato Hagiwara](http://masatohagiwara.net), Duolingo
+<div id="keynote">
+    <h2 style="margin: auto">Opening keynote</h2>
+    <img width="25%" src="/static/img/duo.png" />
+    <img style="padding-left: 0.5em" width="75%" src="/static/img/duolingo.png" />
+    <img style="flex: 1 100%; border-radius: 50%" src="/static/img/masato.png">
+    <p style="flex: 1 100%; margin: 0"><a href="http://masatohagiwara.net">Masato Hagiwara</a></p>
+</div>
+
+<div id="opening"></div>
+
 - Coffee break
-- Paper 1
-- Paper 2
+- First session
 - Lunch
-- Paper 3
-- Paper 4
+- Second session
 - Coffee break
-- Paper 5
-- Paper 6
+- Third session
 
 # Important Dates
 
