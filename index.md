@@ -35,13 +35,9 @@ Tuesday, June 12, 2018
 
 # Important Dates
 
-February 27
+April 8
 
-:   Call for papers [open](https://easychair.org/cfp/WeASeL2018)
-
-April 1
-
-:   Deadline for paper submissions
+:   Deadline for [paper submissions](https://easychair.org/cfp/WeASeL2018)
 
 April 16
 
@@ -53,13 +49,15 @@ June 12
 
 # Call for Papers
 
+Short papers
+
+:    Between 2 and 3 pages
+
 Full papers
 
 :    Between 4 and 6 pages
 
 Submissions can be made through [EasyChair](https://easychair.org/conferences/?conf=weasel2018).
-
-Contact: [Workshop Chair](mailto:weasel2018@easychair.org).
 
 # Workshop Topics
 
@@ -80,7 +78,7 @@ Contact: [Workshop Chair](mailto:weasel2018@easychair.org).
 # Datasets
 
 - Duolingo
-    - **[ongoing!]** [Shared Task on Second Language Acquisition Modeling (SLAM)](http://sharedtask.duolingo.com)
+    - **[until March 19]** [Shared Task on Second Language Acquisition Modeling (SLAM)](http://sharedtask.duolingo.com)
     - [Half-Life Regression](https://github.com/duolingo/halflife-regression)
 - Mnemosyne
     - [3GB Dataset](https://archive.org/details/20140127MnemosynelogsAll.db)
@@ -92,6 +90,8 @@ Contact: [Workshop Chair](mailto:weasel2018@easychair.org).
     - [KDD Cup 2010](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp)
 
 # Organizers
+
+Contact us: [weasel2018@easychair.org](mailto:weasel2018@easychair.org).
 
 ## Workshop Chairs
 
