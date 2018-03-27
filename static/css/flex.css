@@ -18,6 +18,6 @@
     flex: auto;
 }
 
-.main-content figure > img {
+.main-content figure img {
     max-width: 200px;
 }

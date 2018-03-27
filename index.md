@@ -1,9 +1,9 @@
 We host a 1-day workshop colocated with the [ITS 2018](http://its2018.its-conferences.com) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
 
 <div id="hosts">
-    <figure><img src="/static/img/aip.png" /></figure>
-    <figure><img src="/static/img/inria.jpg" /></figure>
-    <figure><img src="/static/img/cs.png" /></figure>
+    <figure><a href="https://aip.riken.jp"><img src="/static/img/aip.png" /></a></figure>
+    <figure><a href="https://team.inria.fr/sequel/"><img src="/static/img/inria.jpg" /></a></figure>
+    <figure><a href="http://www.centralesupelec.fr/en"><img src="/static/img/cs.png" /></a></figure>
 </div>
 
 # Motivation
