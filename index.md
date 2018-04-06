@@ -35,7 +35,7 @@ Tuesday, June 12, 2018
 
 # Registration
 
-:   [Registration](http://its2018.its-conferences.com/registration/) is now open
+    [Registration](http://its2018.its-conferences.com/registration/) is now open
 
 # Important Dates
 
