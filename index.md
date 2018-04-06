@@ -33,9 +33,13 @@ Tuesday, June 12, 2018
 - Coffee break
 - Third session
 
+# Registration
+
+:   [Registration](http://its2018.its-conferences.com/registration/) is now open
+
 # Important Dates
 
-April 8, [AoE](https://www.timeanddate.com/time/zones/aoe)
+April 9, [AoE](https://www.timeanddate.com/time/zones/aoe)
 
 :   Deadline for [paper submissions](https://easychair.org/cfp/WeASeL2018)
 
