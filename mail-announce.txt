@@ -1,6 +1,9 @@
+Deadline extension to Apr 8 - Optimizing Human Learning at ITS, Montréal, 12 June 2018
 
 * Apologies for cross-posting *
 
+The submission deadline has been EXTENDED to 8 April 2018 23:59 AoE.
+Anywhere on Earth (AoE) is 12 hours behind Coordinated Universal Time (UTC).
 
 --------------------------------------------------------------------------------
                                 Call for Papers
@@ -11,18 +14,18 @@
                         Montréal (Canada), 12 June 2018
                              https://humanlearn.io/
 
-In conjunction with Intelligent Tutoring Systems (ITS) 2018
+Held in conjunction with Intelligent Tutoring Systems (ITS) 2018
 11-15 June 2018, Montréal, Canada
 http://its2018.its-conferences.com/
 
-We are pleased to host an opening keynote from Masato Hagiwara, Duolingo!
+We are pleased to host an opening keynote from Masato Hagiwara, Duolingo.
 
 
 --------------------------------------------------------------------------------
                                 Important Dates
 --------------------------------------------------------------------------------
 
-Submission deadline:             8 April 2018
+Submission deadline:             8 April 2018 (23:59 AoE - Anywhere on Earth)
 Notification of Acceptance:     16 April 2018
 Workshop date:                  12  June 2018
 
@@ -123,3 +126,7 @@ Jill-Jênn Vie, RIKEN AIP, Japan
 
 E-mail: weasel2018@easychair.org
 Web page: https://humanlearn.io/
+
+-- 
+Optimizing Human Learning
+https://humanlearn.io/
