@@ -33,9 +33,10 @@ Tuesday, June 12, 2018
 - Coffee break
 - Third session
 
-# Registration
+# Register
 
-[Registration](http://its2018.its-conferences.com/registration/) is now open
+[Registration](http://its2018.its-conferences.com/registration/) is now open.  
+**Optimizing Human Learning** is denoted by **W6** on the [registration page](http://its2018.its-conferences.com/registration/).
 
 # Important Dates
 
@@ -46,6 +47,10 @@ April 9, [AoE](https://www.timeanddate.com/time/zones/aoe)
 April 16
 
 :   Notification for acceptance
+
+April 30
+
+:   End of early bird registration rates
 
 June 12
 
@@ -82,7 +87,7 @@ Submissions can be made through [EasyChair](https://easychair.org/conferences/?c
 # Datasets
 
 - Duolingo
-    - **[until March 19]** [Shared Task on Second Language Acquisition Modeling (SLAM)](http://sharedtask.duolingo.com)
+    - [Shared Task on Second Language Acquisition Modeling (SLAM)](http://sharedtask.duolingo.com)
     - [Half-Life Regression](https://github.com/duolingo/halflife-regression)
 - Mnemosyne
     - [3GB Dataset](https://archive.org/details/20140127MnemosynelogsAll.db)
