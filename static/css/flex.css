@@ -1,19 +1,27 @@
-#hosts, #keynote {
+.responsive, .keynote {
     display: flex;
     flex-flow: row wrap;
     align-items: center;
 }
 
-#keynote {
+.keynote {
     width: 220px;
     margin: auto;
     text-align: center;
 }
 
-.main-content #hosts > figure {
+.main-content .responsive > figure {
     display: block;
     text-align: center;
     width: 200px;
+    margin: 1em 1em;
+    flex: auto;
+}
+
+.main-content .responsive > figure {
+    display: block;
+    text-align: center;
+    width: 220px;
     margin: 1em 1em;
     flex: auto;
 }

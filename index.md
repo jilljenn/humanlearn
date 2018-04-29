@@ -1,6 +1,6 @@
 We host a 1-day workshop colocated with the [ITS 2018](http://its2018.its-conferences.com) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
 
-<div id="hosts">
+<div class="responsive">
     <figure><a href="https://aip.riken.jp"><img src="/static/img/aip.png" /></a></figure>
     <figure><a href="https://team.inria.fr/sequel/"><img src="/static/img/inria.jpg" /></a></figure>
     <figure><a href="http://www.centralesupelec.fr/en"><img src="/static/img/cs.png" /></a></figure>
@@ -12,30 +12,49 @@ We host a 1-day workshop colocated with the [ITS 2018](http://its2018.its-confer
 
 Educational research communities have proposed models that predict mistakes and dropout, in order to detect students that need further instruction. There is now a need to design online systems that continuously learn as data flows, and self-assess their strategies when interacting with new learners. These models have been already deployed in online commercial applications (ex. streaming, advertising, social networks) for optimizing interaction, click-through-rate, or profit. Can we use similar methods to enhance the performance of teaching in order to promote lifetime success?
 
-# Program
+# Keynotes
 
-Tuesday, June 12, 2018
-
-<div id="keynote">
-    <h2 style="margin: auto">Opening keynote</h2>
-    <img width="25%" src="/static/img/duo.png" />
-    <img style="padding-left: 0.5em" width="75%" src="/static/img/duolingo.png" />
-    <img style="flex: 1 100%; border-radius: 50%" src="/static/img/masato.png">
-    <p style="flex: 1 100%; margin: 0"><a href="http://masatohagiwara.net">Masato Hagiwara</a></p>
+<div class="responsive">
+    <figure>
+        <div class="keynote">
+            <a href="https://www.duolingo.com"><img width="25%" src="/static/img/duo.png" />
+            <img style="padding-left: 0.5em" width="75%" src="/static/img/duolingo.png" /></a>
+            <img style="flex: 1 100%; border-radius: 50%" src="/static/img/masato.png">
+            <p style="flex: 1 100%; margin: 0"><a href="http://masatohagiwara.net">Masato Hagiwara</a></p>
+        </div>
+    </figure>
+    <figure>
+        <div class="keynote">
+            <h2 style="margin: auto">Carnegie Mellon University</h2>
+            <img style="flex: 1 100%; border-radius: 50%" src="/static/img/shayan.jpg">
+            <p style="flex: 1 100%; margin: 0"><a href="http://www.cs.cmu.edu/~shayand/">Shayan Doroudi</a></p>
+        </div>
+    </figure>
 </div>
 
-<div id="opening"></div>
+# Program
 
-- Coffee break
-- First session
-- Lunch
-- Second session
-- Coffee break
-- Third session
+Tuesday 12 June 2018
 
-# Register
+| Time     | Event
+|----------|---------------------------------------------------------------
+| 8:45 AM  | Welcome and Introduction
+| 9:00 AM  | Keynote: Optimizing Human Language Learning<br />*Masato Hagiwara, [Duolingo](https://www.duolingo.com)*
+| 10:00 AM | Coffee Break
+| 10:30 AM | SARLR: Self-adaptive Recommendation of Learning Resources<br />*Liping Liu, Wenjun Wu, Jiankun Huang*
+| 11:00 AM | An Adaptive Tutor to Promote Learners' Skills Acquisition during Procedural Learning<br />*Joanna Taoum, Anaïs Raison, Elisabetta Bevacqua, Ronan Querrec*
+| 11:30 AM | Open Discussion
+| 12:00 AM | Lunch Break
+| 2:00 PM | Keynote: *Shayan Doroudi*
+| 3:00 PM | Optimizing Recommendation in Collaborative E-Learning by Exploring DBpedia and Association Rules<br />*Samia Beldjoudi, Hassina Seridi*
+| 3:30 PM | Coffee Break
+| 4:00 PM | Tutorial: (Deep?) Factorization Machines for Knowledge Tracing<br />*Jill-Jênn Vie*
+| 5:00 PM | Closing Discussion
+| 5:30 PM | End of Workshop
 
-[Registration](http://its2018.its-conferences.com/registration/) is now open.  
+# Registration
+
+[Registration](http://its2018.its-conferences.com/registration/) is now open, early bird rates running until **May 11**.  
 **Optimizing Human Learning** is denoted by **W6** on the [registration page](http://its2018.its-conferences.com/registration/).
 
 # Important Dates
@@ -50,7 +69,12 @@ April 16
 
 April 30
 
-:   End of early bird registration rates
+:   End of early bird [registration](http://its2018.its-conferences.com/registration/) rates for ITS 2018
+
+May 11
+
+:   End of early bird [registration](http://its2018.its-conferences.com/registration/) rates for Optimizing Human Learning  
+Camera-ready version due
 
 June 12
 
