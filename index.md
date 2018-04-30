@@ -63,7 +63,7 @@ April 16
 
 :   Notification for acceptance
 
-April 30 – [PST](https://www.timeanddate.com/time/zones/pdt)
+May 7 – [PST](https://www.timeanddate.com/time/zones/pdt)
 
 :   End of early bird [registration](http://its2018.its-conferences.com/registration/) rates for ITS 2018
 
