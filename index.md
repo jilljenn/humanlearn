@@ -1,9 +1,9 @@
 We host a 1-day workshop colocated with the [ITS 2018](http://its2018.its-conferences.com) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
 
-<div class="responsive">
-    <figure><a href="https://aip.riken.jp"><img src="/static/img/aip.png" /></a></figure>
-    <figure><a href="https://team.inria.fr/sequel/"><img src="/static/img/inria.jpg" /></a></figure>
-    <figure><a href="http://www.centralesupelec.fr/en"><img src="/static/img/cs.png" /></a></figure>
+<div id="logos" class="responsive">
+    <a href="https://aip.riken.jp"><img src="/static/img/aip.png" /></a>
+    <a href="https://team.inria.fr/sequel/"><img src="/static/img/inria.jpg" /></a>
+    <a href="http://www.centralesupelec.fr/en"><img src="/static/img/cs.png" /></a>
 </div>
 
 # Motivation
@@ -15,21 +15,17 @@ Educational research communities have proposed models that predict mistakes and 
 # Keynotes
 
 <div class="responsive">
-    <figure>
-        <div class="keynote">
-            <a href="https://www.duolingo.com"><img width="25%" src="/static/img/duo.png" />
-            <img style="padding-left: 0.5em" width="75%" src="/static/img/duolingo.png" /></a>
-            <img style="flex: 1 100%; border-radius: 50%" src="/static/img/masato.png">
-            <p style="flex: 1 100%; margin: 0"><a href="http://masatohagiwara.net">Masato Hagiwara</a></p>
-        </div>
-    </figure>
-    <figure>
-        <div class="keynote">
-            <h2 style="margin: auto">Carnegie Mellon University</h2>
-            <img style="flex: 1 100%; border-radius: 50%" src="/static/img/shayan.jpg">
-            <p style="flex: 1 100%; margin: 0"><a href="http://www.cs.cmu.edu/~shayand/">Shayan Doroudi</a></p>
-        </div>
-    </figure>
+    <div class="keynote">
+        <img width="25%" style="margin-right: 0.5em" src="/static/img/duo.png" />
+        <img width="75%" src="/static/img/duolingo.png" />
+        <img style="border-radius: 50%" src="/static/img/masato.png">
+        <p><a href="http://masatohagiwara.net">Masato Hagiwara</a></p>
+    </div>
+    <div class="keynote">
+        <h2 style="margin-bottom: 0">Carnegie Mellon University</h2>
+        <img style="border-radius: 50%;" src="/static/img/shayan.jpg">
+        <p><a href="http://www.cs.cmu.edu/~shayand/">Shayan Doroudi</a></p>
+    </div>
 </div>
 
 # Program
@@ -59,7 +55,7 @@ Tuesday 12 June 2018
 
 # Important Dates
 
-April 9, [AoE](https://www.timeanddate.com/time/zones/aoe)
+April 9 – [AoE](https://www.timeanddate.com/time/zones/aoe)
 
 :   Deadline for [paper submissions](https://easychair.org/cfp/WeASeL2018)
 
@@ -67,11 +63,11 @@ April 16
 
 :   Notification for acceptance
 
-April 30
+April 30 – [PST](https://www.timeanddate.com/time/zones/pdt)
 
 :   End of early bird [registration](http://its2018.its-conferences.com/registration/) rates for ITS 2018
 
-May 11
+May 11 – [PST](https://www.timeanddate.com/time/zones/pdt)
 
 :   End of early bird [registration](http://its2018.its-conferences.com/registration/) rates for Optimizing Human Learning  
 Camera-ready version due

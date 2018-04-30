@@ -1,31 +1,19 @@
-.responsive, .keynote {
+.responsive {
     display: flex;
     flex-flow: row wrap;
     align-items: center;
+    justify-content: space-evenly;
 }
 
 .keynote {
-    width: 220px;
-    margin: auto;
+    width: 300px;
     text-align: center;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
 }
 
-.main-content .responsive > figure {
-    display: block;
-    text-align: center;
-    width: 200px;
-    margin: 1em 1em;
-    flex: auto;
-}
-
-.main-content .responsive > figure {
-    display: block;
-    text-align: center;
-    width: 220px;
-    margin: 1em 1em;
-    flex: auto;
-}
-
-.main-content figure img {
+.main-content .responsive img {
     max-width: 200px;
 }
