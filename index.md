@@ -19,12 +19,14 @@ Educational research communities have proposed models that predict mistakes and 
         <img width="25%" style="margin-right: 0.5em" src="/static/img/duo.png" />
         <img width="75%" src="/static/img/duolingo.png" />
         <img style="border-radius: 50%" src="/static/img/masato.png">
-        <p><a href="http://masatohagiwara.net">Masato Hagiwara</a></p>
+        <p style="flex-basis: 100%"><a href="http://masatohagiwara.net">Masato Hagiwara</a></p>
+        <p style="margin: 0"><strong>Optimizing<br />Human Language<br />Learning</strong></p>
     </div>
     <div class="keynote">
         <h2 style="margin-bottom: 0">Carnegie Mellon University</h2>
         <img style="border-radius: 50%;" src="/static/img/shayan.jpg">
         <p><a href="http://www.cs.cmu.edu/~shayand/">Shayan Doroudi</a></p>
+        <p style="margin: 0"><strong>Where's the Reward? A Review of Reinforcement Learning for Instructional Sequencing</strong></p>
     </div>
 </div>
 
@@ -36,22 +38,30 @@ Tuesday 12 June 2018
 |----------|---------------------------------------------------------------
 | 8:45 AM  | Welcome and Introduction
 | 9:00 AM  | Keynote: Optimizing Human Language Learning<br />*Masato Hagiwara, [Duolingo](https://www.duolingo.com)*
-| 10:00 AM | Coffee Break
-| 10:30 AM | SARLR: Self-adaptive Recommendation of Learning Resources<br />*Liping Liu, Wenjun Wu, Jiankun Huang*
-| 11:00 AM | An Adaptive Tutor to Promote Learners' Skills Acquisition during Procedural Learning<br />*Joanna Taoum, Anaïs Raison, Elisabetta Bevacqua, Ronan Querrec*
+| 10:00 AM | An Adaptive Tutor to Promote Learners' Skills Acquisition during Procedural Learning<br />*Joanna Taoum, Anaïs Raison, Elisabetta Bevacqua, Ronan Querrec*
+| 10:30 AM | Coffee Break
+| 11:00 AM | SARLR: Self-adaptive Recommendation of Learning Resources<br />*Liping Liu, Wenjun Wu, Jiankun Huang*
 | 11:30 AM | Open Discussion
 | 12:00 AM | Lunch Break
-| 2:00 PM | Keynote: *Shayan Doroudi*
-| 3:00 PM | Optimizing Recommendation in Collaborative E-Learning by Exploring DBpedia and Association Rules<br />*Samia Beldjoudi, Hassina Seridi*
-| 3:30 PM | Coffee Break
-| 4:00 PM | Tutorial: (Deep?) Factorization Machines for Knowledge Tracing<br />*Jill-Jênn Vie*
-| 5:00 PM | Closing Discussion
-| 5:30 PM | End of Workshop
+| 1:30 PM | Keynote: Where's the Reward? A Review of Reinforcement Learning for Instructional Sequencing<br />*Shayan Doroudi, Carnegie Mellon University*
+| 2:30 PM | Optimizing Recommendation in Collaborative E-Learning by Exploring DBpedia and Association Rules<br />*Samia Beldjoudi, Hassina Seridi*
+| 3:00 PM | Coffee Break
+| 3:30 PM | Tutorial: (Deep?) Factorization Machines for Knowledge Tracing<br />*Jill-Jênn Vie, RIKEN AIP*
+| 4:30 PM | Closing Discussion
+| 5:00 PM | End of Workshop
 
 # Registration
 
 [Registration](http://its2018.its-conferences.com/registration/) is now open, early bird rates running until **May 11**.  
 **Optimizing Human Learning** is denoted by **W6** on the [registration page](http://its2018.its-conferences.com/registration/).
+
+# Venue
+
+The Optimizing Human Learning workshop will be held at:
+
+[University du Québec à Montréal](http://its2018.its-conferences.com/location/conference-venue/) (UQAM)
+
+The precise location (room) is yet to be announced.
 
 # Important Dates
 
