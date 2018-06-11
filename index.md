@@ -34,34 +34,36 @@ Educational research communities have proposed models that predict mistakes and 
 
 Tuesday 12 June 2018
 
+Proceedings are available [on this page](/proceedings/vol-1/).
+
 | Time     | Event
 |----------|---------------------------------------------------------------
 | 8:45 AM  | Welcome and Introduction
-| 9:00 AM  | Keynote: Optimizing Human Language Learning<br />*Masato Hagiwara, [Duolingo](https://www.duolingo.com)*
-| 10:00 AM | An Adaptive Tutor to Promote Learners' Skills Acquisition during Procedural Learning<br />*Joanna Taoum, Anaïs Raison, Elisabetta Bevacqua, Ronan Querrec*
+| 9:00 AM  | Keynote: [Optimizing Human Language Learning](/proceedings/vol-1/paper-01.pdf)<br />*Masato Hagiwara, [Duolingo](https://www.duolingo.com)*
+| 10:00 AM | [An Adaptive Tutor to Promote Learners' Skills Acquisition during Procedural Learning](/proceedings/vol-1/paper-05.pdf)<br />*Joanna Taoum, Anaïs Raison, Elisabetta Bevacqua, Ronan Querrec*
 | 10:30 AM | Coffee Break
-| 11:00 AM | SARLR: Self-adaptive Recommendation of Learning Resources<br />*Liping Liu, Wenjun Wu, Jiankun Huang*
+| 11:00 AM | [SARLR: Self-adaptive Recommendation of Learning Resources](/proceedings/vol-1/paper-04.pdf)<br />*Liping Liu, Wenjun Wu, Jiankun Huang*
 | 11:30 AM | Open Discussion
 | 12:00 AM | Lunch Break
-| 1:30 PM | Keynote: Where's the Reward? A Review of Reinforcement Learning for Instructional Sequencing<br />*Shayan Doroudi, Carnegie Mellon University*
-| 2:30 PM | Optimizing Recommendation in Collaborative E-Learning by Exploring DBpedia and Association Rules<br />*Samia Beldjoudi, Hassina Seridi*
+| 1:30 PM | Keynote: [Where's the Reward? A Review of Reinforcement Learning for Instructional Sequencing](/proceedings/vol-1/paper-02.pdf)<br />*Shayan Doroudi, Carnegie Mellon University*
+| 2:30 PM | [Optimizing Recommendation in Collaborative E-Learning by Exploring DBpedia and Association Rules](/proceedings/vol-1/paper-06.pdf)<br />*Samia Beldjoudi, Hassina Seridi*
 | 3:00 PM | Coffee Break
-| 3:30 PM | Tutorial: (Deep?) Factorization Machines for Knowledge Tracing<br />*Jill-Jênn Vie, RIKEN AIP*
+| 3:30 PM | Tutorial: [Knowledge Tracing Machines: towards an unification of DKT, IRT & PFA](/proceedings/vol-1/paper-03.pdf)<br />*Jill-Jênn Vie, RIKEN AIP*
 | 4:30 PM | Closing Discussion
 | 5:00 PM | End of Workshop
 
 # Registration
 
-[Registration](http://its2018.its-conferences.com/registration/) is now open, early bird rates running until **May 11**.  
 **Optimizing Human Learning** is denoted by **W6** on the [registration page](http://its2018.its-conferences.com/registration/).
 
 # Venue
 
 The Optimizing Human Learning workshop will be held at:
 
-[University du Québec à Montréal](http://its2018.its-conferences.com/location/conference-venue/) (UQAM)
-
-The precise location (room) is yet to be announced.
+University du Québec à Montréal (UQAM)  
+[Pavillon Sherbrooke](https://carte.uqam.ca/#pavillon/sh)  
+200 rue Sherbrooke Ouest  
+H2X 3P2  
 
 # Important Dates
 
