@@ -39,7 +39,7 @@ Proceedings are available [on this page](/proceedings/vol-1/).
 | Time     | Event
 |----------|---------------------------------------------------------------
 | 8:45 AM  | Welcome and Introduction
-| 9:00 AM  | Keynote: [Optimizing Human Language Learning](/proceedings/vol-1/paper-01.pdf)<br />*Masato Hagiwara, [Duolingo](https://www.duolingo.com)*
+| 9:00 AM  | Keynote: [Optimizing Human Language Learning](/proceedings/vol-1/paper-01.pdf) [[slides]](http://masatohagiwara.net/files/201806_OptimizingHumanLearning_Hagiwara.pdf)<br />*Masato Hagiwara, [Duolingo](https://www.duolingo.com)*
 | 10:00 AM | [An Adaptive Tutor to Promote Learners' Skills Acquisition during Procedural Learning](/proceedings/vol-1/paper-05.pdf)<br />*Joanna Taoum, Anaïs Raison, Elisabetta Bevacqua, Ronan Querrec*
 | 10:30 AM | Coffee Break
 | 11:00 AM | [SARLR: Self-adaptive Recommendation of Learning Resources](/proceedings/vol-1/paper-04.pdf)<br />*Liping Liu, Wenjun Wu, Jiankun Huang*
