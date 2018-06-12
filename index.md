@@ -43,7 +43,7 @@ Proceedings are available [on this page](/proceedings/vol-1/).
 | 10:00 AM | [An Adaptive Tutor to Promote Learners' Skills Acquisition during Procedural Learning](/proceedings/vol-1/paper-05.pdf)<br />*Joanna Taoum, Anaïs Raison, Elisabetta Bevacqua, Ronan Querrec*
 | 10:30 AM | Coffee Break
 | 11:00 AM | [SARLR: Self-adaptive Recommendation of Learning Resources](/proceedings/vol-1/paper-04.pdf)<br />*Liping Liu, Wenjun Wu, Jiankun Huang*
-| 11:30 AM | Open Discussion
+| 11:30 AM | [Open Discussion](https://docs.google.com/document/d/1DPWc06BjbNBW9gCgjV35I0pCIfeipvBIWIWtzjWC2VU/edit#)
 | 12:00 AM | Lunch Break
 | 1:30 PM | Keynote: [Where's the Reward? A Review of Reinforcement Learning for Instructional Sequencing](/proceedings/vol-1/paper-02.pdf)<br />*Shayan Doroudi, Carnegie Mellon University*
 | 2:30 PM | [Optimizing Recommendation in Collaborative E-Learning by Exploring DBpedia and Association Rules](/proceedings/vol-1/paper-06.pdf)<br />*Samia Beldjoudi, Hassina Seridi*
