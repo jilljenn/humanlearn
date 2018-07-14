@@ -1,4 +1,4 @@
-We host a 1-day workshop colocated with the [ITS 2018](http://its2018.its-conferences.com) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
+We hosted a 1-day workshop colocated with the [ITS 2018](http://its2018.its-conferences.com) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
 
 <div id="logos" class="responsive">
     <a href="https://aip.riken.jp"><img src="/static/img/aip.png" /></a>
@@ -20,13 +20,13 @@ Educational research communities have proposed models that predict mistakes and 
         <img width="75%" src="/static/img/duolingo.png" />
         <img style="border-radius: 50%" src="/static/img/masato.png">
         <p style="flex-basis: 100%"><a href="http://masatohagiwara.net">Masato Hagiwara</a></p>
-        <p style="margin: 0"><strong>Optimizing<br />Human Language<br />Learning</strong></p>
+        <p style="margin: 0"><strong>Optimizing<br />Human Language<br />Learning</strong><br /><a href="http://masatohagiwara.net/its2018.html">[html]</a> <a href="http://masatohagiwara.net/files/201806_OptimizingHumanLearning_Hagiwara.pdf">[slides]</a></p>
     </div>
     <div class="keynote">
         <h2 style="margin-bottom: 0">Carnegie Mellon University</h2>
         <img style="border-radius: 50%;" src="/static/img/shayan.jpg">
         <p><a href="http://www.cs.cmu.edu/~shayand/">Shayan Doroudi</a></p>
-        <p style="margin: 0"><strong>Where's the Reward? A Review of Reinforcement Learning for Instructional Sequencing</strong></p>
+        <p style="margin: 0"><strong>Where's the Reward? A Review of Reinforcement Learning for Instructional Sequencing</strong><br /><a href="http://www.cs.cmu.edu/~shayand/slides/optimizinghumanlearning-workshop-keynote.pdf">[slides]</a></p>
     </div>
 </div>
 
@@ -39,17 +39,17 @@ Proceedings are available [on this page](/proceedings/vol-1/).
 | Time     | Event
 |----------|---------------------------------------------------------------
 | 8:45 AM  | Welcome and Introduction
-| 9:00 AM  | Keynote: [Optimizing Human Language Learning](/proceedings/vol-1/paper-01.pdf) [[slides]](http://masatohagiwara.net/files/201806_OptimizingHumanLearning_Hagiwara.pdf)<br />*Masato Hagiwara, [Duolingo](https://www.duolingo.com)*
-| 10:00 AM | [An Adaptive Tutor to Promote Learners' Skills Acquisition during Procedural Learning](/proceedings/vol-1/paper-05.pdf)<br />*Joanna Taoum, Anaïs Raison, Elisabetta Bevacqua, Ronan Querrec*
+| 9:00 AM  | Keynote: [Optimizing Human Language Learning](/proceedings/vol-1/paper-01.pdf) [[html]](http://masatohagiwara.net/its2018.html) [[slides]](http://masatohagiwara.net/files/201806_OptimizingHumanLearning_Hagiwara.pdf)<br />*Masato Hagiwara, [Duolingo](https://www.duolingo.com)*
+| 10:00 AM | [An Adaptive Tutor to Promote Learners' Skills Acquisition during Procedural Learning](/proceedings/vol-1/paper-05.pdf) [[slides]](/static/slides/adaptive-tutor-taoum.pdf)<br />*Joanna Taoum, Anaïs Raison, Elisabetta Bevacqua, Ronan Querrec*
 | 10:30 AM | Coffee Break
-| 11:00 AM | [SARLR: Self-adaptive Recommendation of Learning Resources](/proceedings/vol-1/paper-04.pdf)<br />*Liping Liu, Wenjun Wu, Jiankun Huang*
+| 11:00 AM | [SARLR: Self-adaptive Recommendation of Learning Resources](/proceedings/vol-1/paper-04.pdf) [[slides]](/static/slides/sarlr-recommendation-liu.pdf)<br />*Liping Liu, Wenjun Wu, Jiankun Huang*
 | 11:30 AM | [Open Discussion](https://docs.google.com/document/d/1DPWc06BjbNBW9gCgjV35I0pCIfeipvBIWIWtzjWC2VU/edit#)
 | 12:00 AM | Lunch Break
-| 1:30 PM | Keynote: [Where's the Reward? A Review of Reinforcement Learning for Instructional Sequencing](/proceedings/vol-1/paper-02.pdf)<br />*Shayan Doroudi, Carnegie Mellon University*
-| 2:30 PM | [Optimizing Recommendation in Collaborative E-Learning by Exploring DBpedia and Association Rules](/proceedings/vol-1/paper-06.pdf)<br />*Samia Beldjoudi, Hassina Seridi*
+| 1:30 PM | Keynote: [Where's the Reward? A Review of Reinforcement Learning for Instructional Sequencing](/proceedings/vol-1/paper-02.pdf) [[slides]](http://www.cs.cmu.edu/~shayand/slides/optimizinghumanlearning-workshop-keynote.pdf)<br />*Shayan Doroudi, Carnegie Mellon University*
+| 2:30 PM | [Optimizing Recommendation in Collaborative E-Learning by Exploring DBpedia and Association Rules](/proceedings/vol-1/paper-06.pdf) [[slides]](/static/slides/dbpedia-beldjoudi.pdf)<br />*Samia Beldjoudi, Hassina Seridi*
 | 3:00 PM | Coffee Break
-| 3:30 PM | Tutorial: [Knowledge Tracing Machines: towards an unification of DKT, IRT & PFA](/proceedings/vol-1/paper-03.pdf)<br />*Jill-Jênn Vie, RIKEN AIP*
-| 4:30 PM | Closing Discussion
+| 3:30 PM | Tutorial: [Knowledge Tracing Machines: towards an unification of DKT, IRT & PFA](/proceedings/vol-1/paper-03.pdf) [[code]](https://github.com/jilljenn/ktm) [[slides]](/static/slides/knowledge-tracing-machines-vie.pdf)<br />*Jill-Jênn Vie, RIKEN AIP*
+| 4:30 PM | [Closing Discussion](https://docs.google.com/document/d/1DPWc06BjbNBW9gCgjV35I0pCIfeipvBIWIWtzjWC2VU/edit#)
 | 5:00 PM | End of Workshop
 
 # Registration
@@ -58,7 +58,7 @@ Proceedings are available [on this page](/proceedings/vol-1/).
 
 # Venue
 
-The Optimizing Human Learning workshop will be held at:
+The Optimizing Human Learning workshop was held at:
 
 University du Québec à Montréal (UQAM)  
 [Pavillon Sherbrooke](https://carte.uqam.ca/#pavillon/sh)  
@@ -133,6 +133,8 @@ Submissions can be made through [EasyChair](https://easychair.org/conferences/?c
 # Organizers
 
 Contact us: [weasel2018@easychair.org](mailto:weasel2018@easychair.org).
+
+Join our Google group: [optimizing-human-learning](https://groups.google.com/forum/#!forum/optimizing-human-learning)
 
 ## Workshop Chairs
 
