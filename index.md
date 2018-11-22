@@ -1,3 +1,9 @@
+**Update.** The proceedings of WeASeL 2018 are available [here](http://its2018.its-conferences.com/wp-content/uploads/ITS2018-Workshops-Proceedings.pdf), starting page 141.  
+About the next edition of our workshop, more information will be available in February 2019.  
+To stay updated, join our Google group: [optimizing-human-learning](https://groups.google.com/forum/#!forum/optimizing-human-learning)!
+
+---
+
 We hosted a 1-day workshop colocated with the [ITS 2018](http://its2018.its-conferences.com) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
 
 <div id="logos" class="responsive">
@@ -48,7 +54,7 @@ Proceedings are available [on this page](/proceedings/vol-1/).
 | 1:30 PM | Keynote: [Where's the Reward? A Review of Reinforcement Learning for Instructional Sequencing](/proceedings/vol-1/paper-02.pdf) [[slides]](http://www.cs.cmu.edu/~shayand/slides/optimizinghumanlearning-workshop-keynote.pdf)<br />*Shayan Doroudi, Carnegie Mellon University*
 | 2:30 PM | [Optimizing Recommendation in Collaborative E-Learning by Exploring DBpedia and Association Rules](/proceedings/vol-1/paper-06.pdf) [[slides]](/static/slides/dbpedia-beldjoudi.pdf)<br />*Samia Beldjoudi, Hassina Seridi*
 | 3:00 PM | Coffee Break
-| 3:30 PM | Tutorial: [Knowledge Tracing Machines: towards an unification of DKT, IRT & PFA](/proceedings/vol-1/paper-03.pdf) [[code]](https://github.com/jilljenn/ktm) [[slides]](/static/slides/knowledge-tracing-machines-vie.pdf)<br />*Jill-Jênn Vie, RIKEN AIP*
+| 3:30 PM | Tutorial: [Knowledge Tracing Machines: towards an unification of DKT, IRT & PFA [pdf]](https://arxiv.org/abs/1811.03388) [[code]](https://github.com/jilljenn/ktm) [[slides]](/static/slides/knowledge-tracing-machines-vie.pdf)<br />*Jill-Jênn Vie, RIKEN AIP*
 | 4:30 PM | [Closing Discussion](https://docs.google.com/document/d/1DPWc06BjbNBW9gCgjV35I0pCIfeipvBIWIWtzjWC2VU/edit#)
 | 5:00 PM | End of Workshop
 
