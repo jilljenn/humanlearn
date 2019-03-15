@@ -1,4 +1,4 @@
-We host a 1-day workshop colocated with the [ITS 2019](http://its2019.its-conferences.com) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
+We host a 1-day workshop colocated with the [ITS 2019](https://its2019.iis-international.org) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
 
 <div id="logos" class="responsive">
     <a href="https://aip.riken.jp"><img src="/static/img/aip.png" /></a>
