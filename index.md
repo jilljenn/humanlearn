@@ -63,7 +63,7 @@ Full papers
 
 :    Between 4 and 6 pages
 
-Submissions can be made through EasyChair and should follow the [LNCS format](http://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines).
+Submissions can be made through __[EasyChair](https://easychair.org/conferences/?conf=weasel2019)__ and should follow the [LNCS format](http://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines).
 
 # Workshop Topics
 
