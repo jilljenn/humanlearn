@@ -26,6 +26,17 @@ Student modeling for optimizing human learning is a rich and complex task that g
 - multi-task learning
 - reinforcement learning
 
+# Program
+
+| Time     | Event
+|----------|---------------------------------------------------------------        
+| 9:30 AM  | Welcome and Introduction      
+| 9:45 AM  | Tutorial: [Knowledge Tracing](https://arxiv.org/abs/1811.03388) [[code]](https://github.com/jilljenn/ktm)<br />*Jill-Jênn Vie (RIKEN AIP, Kyoto University & New York University)*
+| 10:30 AM | Coffee Break      
+| 11:00 AM | An Exploration of Disciplinary Literacy in Learners' Short Answers<br />*Jean-Philippe Corbeil, Amal Zouaq, and Michel Gagnon*      
+| 11:30 AM | [Open Discussion](https://docs.google.com/document/d/1DPWc06BjbNBW9gCgjV35I0pCIfeipvBIWIWtzjWC2VU/edit#)      
+| 12:15 AM | End of workshop
+
 # Venue
 
 The Optimizing Human Learning workshop will be held in:
@@ -33,7 +44,7 @@ The Optimizing Human Learning workshop will be held in:
 [The University of West Indies](https://www.mona.uwi.edu)  
 Mona, Kingston, Jamaica.
 
-Registration details will be announced later.
+[Register now](https://its2019.iis-international.org/registration/)!
 
 # Important Dates
 
@@ -49,7 +60,7 @@ May 6
 
 :   Camera-ready version due
 
-June 3 or 4
+June 4
 
 :   Optimizing Human Learning Workshop
 
