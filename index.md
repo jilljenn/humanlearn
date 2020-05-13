@@ -81,7 +81,7 @@ Submissions will be made through EasyChair and should follow the [LNCS format](h
 - What explicit and implicit feedbacks does the learner provide during the interaction?
 - What models of learning are relevant? E.g. cognitive models, modeling forgetting in spaced repetition.
 - What specific challenges from the ML point of view are we facing with these data?
-- Do we have enough datasets? What kinds of datasets are missing?
+- Do we have enough datasets? What kinds of datasets are missing? In particular, aren’t the current datasets too focused on STEM disciplines?
 - How to guarantee fairness/trustworthiness of AI systems that learn from interaction with students? This is especially critical for systems that learn online.
 
 # Datasets
@@ -97,6 +97,9 @@ Submissions will be made through EasyChair and should follow the [LNCS format](h
     - [2017 Longitudinal Data Mining Competition](https://sites.google.com/view/assistmentsdatamining)
 - [PLSC DataShop](http://pslcdatashop.web.cmu.edu)
     - [KDD Cup 2010](https://pslcdatashop.web.cmu.edu/KDDCup/downloads.jsp)
+- [Adaptive Learning group at Masaryk University](https://www.fi.muni.cz/adaptivelearning/?a=data)
+	- [RoboMission](https://github.com/adaptive-learning/adaptive-learning-research/tree/master/data/robomission-2019-12)
+- [EdNet dataset](https://github.com/riiid/ednet)
 
 # Organizers
 
