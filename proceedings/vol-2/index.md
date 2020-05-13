@@ -1,7 +1,7 @@
-We host a fully virtual 1-day workshop colocated with the [AIED 2020](https://aied2020.nees.com.br/#/) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
+We host a 1-day workshop colocated with the [ITS 2019](https://its2019.iis-international.org) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
 
 <div id="logos" class="responsive">
-    <a href="https://www.kyoto-u.ac.jp/en/"><img src="/static/img/kyoto.png" /></a>
+    <a href="https://aip.riken.jp"><img src="/static/img/aip.png" /></a>
     <a href="https://team.inria.fr/sequel/"><img src="/static/img/inria.jpg" /></a>
     <a href="http://www.centralesupelec.fr/en"><img src="/static/img/cs.png" /></a>
 </div>
@@ -28,29 +28,39 @@ Student modeling for optimizing human learning is a rich and complex task that g
 
 # Program
 
-TBA
+| Time     | Event
+|----------|---------------------------------------------------------------        
+| 9:30 AM  | Welcome and Introduction      
+| 9:45 AM  | Tutorial: [Knowledge Tracing](https://arxiv.org/abs/1811.03388) [[code]](https://github.com/jilljenn/ktm)<br />*Jill-Jênn Vie (RIKEN AIP, Kyoto University & New York University)*
+| 10:30 AM | Coffee Break      
+| 11:00 AM | An Exploration of Disciplinary Literacy in Learners' Short Answers<br />*Jean-Philippe Corbeil, Amal Zouaq, and Michel Gagnon*      
+| 11:30 AM | [Open Discussion](https://docs.google.com/document/d/1DPWc06BjbNBW9gCgjV35I0pCIfeipvBIWIWtzjWC2VU/edit#)      
+| 12:15 AM | End of workshop
 
 # Venue
 
-The Optimizing Human Learning workshop will be held online.
+The Optimizing Human Learning workshop will be held in:
 
-[Registration soon](https://aied2020.nees.com.br/#/registration)
+[The University of West Indies](https://www.mona.uwi.edu)  
+Mona, Kingston, Jamaica.
+
+[Register now](https://its2019.iis-international.org/registration/)!
 
 # Important Dates
 
-June 20 – [AoE](https://www.timeanddate.com/time/zones/aoe)
+April 16 – [AoE](https://www.timeanddate.com/time/zones/aoe)
 
 :   Deadline for paper submissions
 
-June 27
+April 23
 
 :   Notification for acceptance
 
-July 5
+May 6
 
 :   Camera-ready version due
 
-July 6 or 10
+June 4
 
 :   Optimizing Human Learning Workshop
 
@@ -64,7 +74,7 @@ Full papers
 
 :    Between 4 and 6 pages
 
-Submissions will be made through EasyChair and should follow the [LNCS format](http://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines).
+Submissions can be made through __[EasyChair](https://easychair.org/conferences/?conf=weasel2019)__ and should follow the [LNCS format](http://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines).
 
 # Workshop Topics
 
@@ -104,7 +114,15 @@ To contact us, join our Google group: [optimizing-human-learning](https://groups
 
 ## Workshop Chairs
 
-[Jill-Jênn Vie](https://jilljenn.github.io), Inria Lille, France  
 [Fabrice Popineau](http://semantic.supelec.fr/popineau/), CentraleSupélec & LRI, France  
-[Hisashi Kashima](https://hkashima.github.io/index_e.html), Kyoto University, Japan  
-Benoît Choffin, CentraleSupélec & LRI, France
+[Michal Valko](http://researchers.lille.inria.fr/~valko/hp/), Inria Lille, France  
+[Jill-Jênn Vie](https://jilljenn.github.io), RIKEN AIP, Japan
+
+## Program Committee
+
+François Bouchet, LIP6/Sorbonne Université, France
+Benoît Choffin, Didask, France  
+Fabrice Popineau, CentraleSupélec & LRI, France  
+Julien Seznec, lelivrescolaire.fr, France  
+Michal Valko, Inria Lille, France  
+Jill-Jênn Vie, RIKEN AIP, Japan
