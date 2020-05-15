@@ -1,8 +1,8 @@
-Deadline extension to Apr 8 - Optimizing Human Learning at ITS, Montréal, 12 June 2018
+Deadline extension to June 20 - Optimizing Human Learning at AIED, fully virtual, 6 or 10 July 2020
 
 * Apologies for cross-posting *
 
-The submission deadline has been EXTENDED to 8 April 2018 23:59 AoE.
+The submission deadline has been EXTENDED to 20 June 2020 23:59 AoE.
 Anywhere on Earth (AoE) is 12 hours behind Coordinated Universal Time (UTC).
 
 --------------------------------------------------------------------------------
@@ -10,24 +10,23 @@ Anywhere on Earth (AoE) is 12 hours behind Coordinated Universal Time (UTC).
 --------------------------------------------------------------------------------
 
                            Optimizing Human Learning
-1st International Workshop on eliciting Adaptive Sequences for Learning (WeASeL)
-                        Montréal (Canada), 12 June 2018
+Third International Workshop eliciting Adaptive Sequences for Learning (WASL)
+                         Cyberspace, 6 or 10 July 2020
                              https://humanlearn.io/
 
-Held in conjunction with Intelligent Tutoring Systems (ITS) 2018
-11-15 June 2018, Montréal, Canada
-http://its2018.its-conferences.com/
-
-We are pleased to host an opening keynote from Masato Hagiwara, Duolingo.
+Held in conjunction with:
+21st International Conference on Artificial Intelligence in Education (AIED 2020)
+6-10 July 2020, Cyberspace
+https://aied2020.nees.com.br/
 
 
 --------------------------------------------------------------------------------
                                 Important Dates
 --------------------------------------------------------------------------------
 
-Submission deadline:             8 April 2018 (23:59 AoE - Anywhere on Earth)
-Notification of Acceptance:     16 April 2018
-Workshop date:                  12  June 2018
+Submission deadline:            20 June 2020 (23:59 AoE - Anywhere on Earth)
+Notification of Acceptance:     27 June 2020
+Workshop date:             6 or 10 July 2020, fully virtual
 
 
 --------------------------------------------------------------------------------
@@ -57,31 +56,23 @@ advertising, social networks) for optimizing interaction,
 click-through-rate, or profit. Can we use similar methods to enhance
 the performance of teaching in order to promote lifetime success?
 
+Student modeling for optimizing human learning is a rich and complex
+task that gathers methods from machine learning, cognitive science,
+educational data mining and psychometrics.
+This workshop welcomes researchers and practitioners in the
+following topics (this list is not exhaustive):
 
---------------------------------------------------------------------------------
-                               Topics of Interest
---------------------------------------------------------------------------------
-
--   How to put the student in optimal conditions to learn? e.g. incentives,
-    companion agents, etc.
--   When optimizing human learning, which metrics should be optimized?
-    -   The progress of the learner?
-    -   The diversity or coverage of the proposed activities?
-    -   Can a learning platform be solely based on addiction,
-        maximizing interaction?
--   What kinds of activities give enough choice and control to the learner
-    to benefit their learning (adaptability vs. adaptivity)?
--   Do we want to enhance social interaction between learners?
--   What feedback should be shown to the learner in order to allow reflective
-    learning? e.g. visualization, learning map, score, etc.
-    Should a system provide a fake feedback in order to encourage the student more?
--   What student parameters are relevant? e.g. personality traits, mood,
-    context (is the learner in class or at home?), etc.
--   What explicit and implicit feedbacks does the learner provide during the interaction?
--   What models of learning are relevant? E.g. cognitive models,
-    modeling forgetting in spaced repetition.
--   What specific challenges from the ML point of view are we facing with these data?
--   Do we have enough datasets? What kinds of datasets are missing?
+- abstract representations of learning
+- additive/conjunctive factor models
+- adversarial learning
+- causal models
+- cognitive diagnostic models
+- deep generative models such as deep knowledge tracing
+- item response theory
+- models of learning and forgetting (spaced repetition)
+- multi-armed bandits
+- multi-task learning
+- reinforcement learning
 
 
 --------------------------------------------------------------------------------
@@ -97,34 +88,24 @@ Full papers
     http://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines
 
 Submissions can be made through EasyChair:
-    https://easychair.org/my/conference.cgi?conf=weasel2018
+    https://easychair.org/my/conference.cgi?conf=wasl2020
 
 
 --------------------------------------------------------------------------------
-                                Workshop Chairs
+                       Workshop Chairs & Program Committee
 --------------------------------------------------------------------------------
 
-Fabrice Popineau, CentraleSupélec & LRI, France
-Michal Valko, Inria Lille, France
-Jill-Jênn Vie, RIKEN AIP, Japan
-
-
---------------------------------------------------------------------------------
-                               Program Committee
---------------------------------------------------------------------------------
-
-Fabrice Popineau, CentraleSupélec & LRI, France
-Arnaud Riegert, Didask, France
-Julien Seznec, lelivrescolaire.fr, France
-Michal Valko, Inria Lille, France
-Jill-Jênn Vie, RIKEN AIP, Japan
+Jill-Jênn Vie, Inria Lille, France
+Fabrice Popineau, LRI/CentraleSupélec, Orsay, France
+Hisashi Kashima, Kyoto University, Japan
+Benoît Choffin, LRI/CentraleSupélec, Orsay, France
 
 
 --------------------------------------------------------------------------------
                                     Contact
 --------------------------------------------------------------------------------
 
-E-mail: weasel2018@easychair.org
+E-mail: wasl2020@easychair.org
 Web page: https://humanlearn.io/
 
 -- 
