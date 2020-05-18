@@ -40,7 +40,7 @@ The Optimizing Human Learning workshop will be held online.
 
 June 20 – [AoE](https://www.timeanddate.com/time/zones/aoe)
 
-:   Deadline for paper submissions
+:   Deadline for paper submissions - [CFP on EasyChair](https://easychair.org/my/conference?conf=wasl2020)
 
 June 27
 
@@ -64,7 +64,7 @@ Full papers
 
 :    Between 4 and 6 pages
 
-Submissions will be made through EasyChair and should follow the [LNCS format](http://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines).
+Submissions will be made through [EasyChair](https://easychair.org/my/conference?conf=wasl2020) and should follow the [LNCS format](http://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines).
 
 # Workshop Topics
 
