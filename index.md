@@ -1,4 +1,4 @@
-We host a fully virtual 1-day workshop colocated with the [AIED 2020](https://aied2020.nees.com.br/#/) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
+We host a fully virtual half-day workshop colocated with the [AIED 2020](https://aied2020.nees.com.br/#/) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
 
 <div id="logos" class="responsive">
     <a href="https://www.kyoto-u.ac.jp/en/"><img src="/static/img/kyoto.png" /></a>
@@ -50,7 +50,7 @@ July 5
 
 :   Camera-ready version due
 
-July 6 or 10
+July 6 1pm-5pm (Morroco time)
 
 :   Optimizing Human Learning Workshop
 
