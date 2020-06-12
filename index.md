@@ -50,7 +50,7 @@ July 5
 
 :   Camera-ready version due
 
-July 6 1pm-5pm (Morroco time)
+July 6 1pm-5pm (GMT+1)
 
 :   Optimizing Human Learning Workshop
 
