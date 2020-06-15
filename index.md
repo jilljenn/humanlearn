@@ -34,7 +34,9 @@ TBA
 
 The Optimizing Human Learning workshop will be held online.
 
-[Registration soon](https://aied2020.nees.com.br/#/registration)
+Price is 10 USD for students, 20 USD for others, with a small registration fee.
+
+[Registration is open](https://aied2020.nees.com.br/#/registration)
 
 # Important Dates
 
@@ -50,7 +52,7 @@ July 5
 
 :   Camera-ready version due
 
-July 6 1pm-5pm (GMT+1)
+July 6 1pm-5pm (GMT+1) (see your [local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Optimizing+Human+Learning+WASL+2020&iso=20200706T13&p1=60&ah=4) here)
 
 :   Optimizing Human Learning Workshop
 
