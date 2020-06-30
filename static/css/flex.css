@@ -17,3 +17,11 @@
 .main-content .responsive img {
     max-width: 200px;
 }
+
+table {
+	font-size: 0.8em;
+}
+
+.main-content table th, .main-content table td {
+	padding: 0.5em;
+}

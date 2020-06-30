@@ -28,15 +28,28 @@ Student modeling for optimizing human learning is a rich and complex task that g
 
 # Program
 
-TBA
+The conference starts on Monday July 6 at **1 PM UTC+1** (see your [local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Optimizing+Human+Learning+WASL+2020&iso=20200706T13&p1=60&ah=4) here).
 
-# Venue
+Pacific  |  Eastern   |  Morocco  |  Central Europe  |  Japan     |
+---------|------------|-----------|------------------|------------|------------------------------------------------------------------------------------------------------------------------------
+UTC-7       |  UTC-4        |  UTC+1        |  UTC+2               |  UTC+9         |
+5:00 AM  |  8:00 AM   |  1:00 PM  |  2:00 PM         |  9:00 PM   |  Welcome and Introduction
+5:30 AM  |  8:30 AM   |  1:30 PM  |  2:30 PM         |  9:30 PM   |  Invited talk: Teaching Categories to Human Learners with Visual Explanations [[intro video]](https://www.youtube.com/watch?v=bD0v4szglg0)<br />[Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/), University of Edinburgh
+6:00 AM  |  9:00 AM   |  2:00 PM  |  3:00 PM         |  10:00 PM  |  Non-compensatory Knowledge Tracing with Local Variational Approximation<br />NEC & Institute of Mathematical Sciences, Tokyo
+         |            |           |                  |            |  15 min break
+6:45 AM  |  9:45 AM   |  2:45 PM  |  3:45 PM         |  10:45 PM  |  Invited talk: Teaching Multiple Concepts to a Forgetful Learner<br />[Yuxin Chen](https://yuxinchen.org/), University of Chicago
+7:15 AM  |  10:15 AM  |  3:15 PM  |  4:15 PM         |  11:15 PM  |  Adaptive Quiz Generation Using Thompson Sampling<br />Fuhua Lin, Athabasca University, Canada
+         |            |           |                  |            |  15 min break
+8:00 AM  |  11:00 AM  |  4:00 PM  |  5:00 PM         |  12:00 AM  |  Open Discussion
+8:30 AM  |  11:30 AM  |  4:30 PM  |  5:30 PM         |  12:30 AM  |  End
 
-The Optimizing Human Learning workshop will be held online.
+# Registration
+
+The Optimizing Human Learning workshop will be held online via BigBlueButton.
+
+[**Register now**](https://attendify.co/aied-2020-hYsvyTU) by selecting **Workshop Four**.
 
 Price is 10 USD for students, 20 USD for others, with a small registration fee.
-
-[Registration is open](https://aied2020.nees.com.br/#/registration)
 
 # Important Dates
 
