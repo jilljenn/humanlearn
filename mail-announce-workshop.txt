@@ -1,0 +1,119 @@
+
+* Apologies for cross-posting *
+
+--------------------------------------------------------------------------------
+
+                           Optimizing Human Learning
+Third International Workshop eliciting Adaptive Sequences for Learning (WASL)
+                Cyberspace, 6 July 2020, 1:00PM - 5:00PM (UTC+1)
+                             https://humanlearn.io/
+
+Held in conjunction with:
+21st International Conference on Artificial Intelligence in Education (AIED 2020)
+6-10 July 2020, Cyberspace
+https://aied2020.nees.com.br/
+
+--------------------------------------------------------------------------------
+                                  Description
+--------------------------------------------------------------------------------
+
+
+What should we learn next? In this current era where digital access to
+knowledge is cheap and user attention is expensive, a number of online
+applications have been developed for learning. These platforms collect
+a massive amount of data over various profiles, that can be used to
+improve learning experience: intelligent tutoring systems can infer
+what activities worked for different types of students in the past,
+and apply this knowledge to instruct new students. In order to learn
+effectively and efficiently, the experience should be adaptive: the
+sequence of activities should be tailored to the abilities and needs
+of each learner, in order to keep them stimulated and avoid boredom,
+confusion and dropout.
+
+Educational research communities have proposed models that predict
+mistakes and dropout, in order to detect students that need further
+instruction. There is now a need to design online systems that
+continuously learn as data flows, and self-assess their strategies
+when interacting with new learners. These models have been already
+deployed in online commercial applications (ex. streaming,
+advertising, social networks) for optimizing interaction,
+click-through-rate, or profit. Can we use similar methods to enhance
+the performance of teaching in order to promote lifetime success?
+
+Student modeling for optimizing human learning is a rich and complex
+task that gathers methods from machine learning, cognitive science,
+educational data mining and psychometrics.
+This workshop welcomes researchers and practitioners in the
+following topics (this list is not exhaustive):
+
+- abstract representations of learning
+- additive/conjunctive factor models
+- adversarial learning
+- causal models
+- cognitive diagnostic models
+- deep generative models such as deep knowledge tracing
+- item response theory
+- models of learning and forgetting (spaced repetition)
+- multi-armed bandits
+- multi-task learning
+- reinforcement learning
+
+--------------------------------------------------------------------------------
+                                Program
+--------------------------------------------------------------------------------
+
+Our workshop will be held fully virtual on Monday, 6 July 2020.
+Please note that all hours below are UTC+1.
+
+1:00 PM - 1:30 PM		Welcome and Introduction
+1:30 PM - 2:00 PM		Invited talk: Teaching Categories to Human
+				Learners with Visual Explanations (Oisin Mac
+				Aodha, University of Edinburgh)
+2:00 PM - 2:30 PM		Non-compensatory Knowledge Tracing with Local
+				Variational Approximation (Hiroshi Tamano, NEC
+				& Institute of Mathematical Sciences, Tokyo)
+
+15 min break
+
+2:45 PM - 3:15 PM		Invited talk: Teaching Multiple Concepts to a
+				Forgetful Learner (Yuxin Chen, University of
+				Chicago)
+3:15 PM - 3:45 PM		Adaptive Quiz Generation Using Thompson Sampling
+				(Fuhua Lin, Athabasca University, Canada)
+
+15 min break
+
+4:00 PM - 4:30 PM		Open Discussion
+4:30 PM				End of the workshop
+
+--------------------------------------------------------------------------------
+                                Registration
+--------------------------------------------------------------------------------
+
+The Optimizing Human Learning workshop will be held online via BigBlueButton.
+
+Register now at the following link (https://attendify.co/aied-2020-hYsvyTU) by
+Selecting Workshop Four.
+
+Price is 10 USD for students, 20 USD for others, with a small registration fee.
+
+--------------------------------------------------------------------------------
+                       Workshop Chairs & Program Committee
+--------------------------------------------------------------------------------
+
+Jill-Jênn Vie, Inria Lille, France
+Fabrice Popineau, LRI/CentraleSupélec, Orsay, France
+Hisashi Kashima, Kyoto University, Japan
+Benoît Choffin, LRI/CentraleSupélec, Orsay, France
+
+
+--------------------------------------------------------------------------------
+                                    Contact
+--------------------------------------------------------------------------------
+
+E-mail: wasl2020@easychair.org
+Web page: https://humanlearn.io/
+
+-- 
+Optimizing Human Learning
+https://humanlearn.io/
