@@ -34,11 +34,11 @@ Pacific  |  Eastern   |  Morocco  |  Central Europe  |  Japan     |
 ---------|------------|-----------|------------------|------------|------------------------------------------------------------------------------------------------------------------------------
 UTC-7       |  UTC-4        |  UTC+1        |  UTC+2               |  UTC+9         |
 5:00 AM  |  8:00 AM   |  1:00 PM  |  2:00 PM         |  9:00 PM   |  Welcome and Introduction
-5:30 AM  |  8:30 AM   |  1:30 PM  |  2:30 PM         |  9:30 PM   |  Invited talk: Teaching Categories to Human Learners with Visual Explanations [[intro video]](https://www.youtube.com/watch?v=bD0v4szglg0)<br />[Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/), University of Edinburgh
-6:00 AM  |  9:00 AM   |  2:00 PM  |  3:00 PM         |  10:00 PM  |  Non-compensatory Knowledge Tracing with Local Variational Approximation<br />Hiroshi Tamano, NEC & Institute of Statistical Mathematics, Japan
+5:30 AM  |  8:30 AM   |  1:30 PM  |  2:30 PM         |  9:30 PM   |  Invited talk: [Teaching Categories to Human Learners with Visual Explanations](https://arxiv.org/pdf/1802.06924.pdf) [[intro video]](https://www.youtube.com/watch?v=bD0v4szglg0)<br />[Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/), University of Edinburgh
+6:00 AM  |  9:00 AM   |  2:00 PM  |  3:00 PM         |  10:00 PM  |  [Non-compensatory Knowledge Tracing with Local Variational Approximation](https://jiji.cat/wasl2020/non-compensatory-kt.pdf)<br />Hiroshi Tamano, NEC & The Graduate University for Advanced Studies, Japan
          |            |           |                  |            |  15 min break
-6:45 AM  |  9:45 AM   |  2:45 PM  |  3:45 PM         |  10:45 PM  |  Invited talk: Teaching Multiple Concepts to a Forgetful Learner<br />[Yuxin Chen](https://yuxinchen.org/), University of Chicago
-7:15 AM  |  10:15 AM  |  3:15 PM  |  4:15 PM         |  11:15 PM  |  Adaptive Quiz Generation Using Thompson Sampling<br />Fuhua Lin, Athabasca University, Canada
+6:45 AM  |  9:45 AM   |  2:45 PM  |  3:45 PM         |  10:45 PM  |  Invited talk: [Teaching Multiple Concepts to a Forgetful Learner](https://arxiv.org/pdf/1805.08322.pdf)<br />[Yuxin Chen](https://yuxinchen.org/), University of Chicago
+7:15 AM  |  10:15 AM  |  3:15 PM  |  4:15 PM         |  11:15 PM  |  [Adaptive Quiz Generation Using Thompson Sampling](https://jiji.cat/wasl2020/adaptive-quiz-generation.pdf)<br />[Fuhua Lin](http://oscar.athabascau.ca/), Athabasca University, Canada
          |            |           |                  |            |  15 min break
 8:00 AM  |  11:00 AM  |  4:00 PM  |  5:00 PM         |  12:00 AM  |  Open Discussion
 8:30 AM  |  11:30 AM  |  4:30 PM  |  5:30 PM         |  12:30 AM  |  End
