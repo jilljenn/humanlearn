@@ -49,7 +49,7 @@ The Optimizing Human Learning workshop will be held online via BigBlueButton.
 
 [**Register now**](https://attendify.co/aied-2020-hYsvyTU) by selecting **Workshop Four**.
 
-Price is 10 USD for students, 20 USD for others, with a small registration fee.
+Price is 11.25 GBP for students (tax included), 21.50 GBP for others. It includes a small registration fee.
 
 # Important Dates
 
