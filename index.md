@@ -122,7 +122,7 @@ To contact us, join our Google group: [optimizing-human-learning](https://groups
 
 ## Workshop Chairs
 
-[Jill-Jênn Vie](https://jilljenn.github.io), Inria Lille, France  
+[Jill-Jênn Vie](https://jjv.ie), Inria, France  
 [Fabrice Popineau](http://fabrice.popineau.net/), CentraleSupélec & LRI, France  
 [Hisashi Kashima](https://hkashima.github.io/index_e.html), Kyoto University, Japan  
 Benoît Choffin, CentraleSupélec & LRI, France
