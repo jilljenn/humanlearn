@@ -1,8 +1,8 @@
-We host a fully virtual half-day workshop colocated with the [AIED 2020](https://aied2020.nees.com.br/#/) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
+We host a physical full-day workshop colocated with the [LAK 2024](https://www.solaresearch.org/events/lak/lak24/) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
 
 <div id="logos" class="responsive">
     <a href="https://www.kyoto-u.ac.jp/en/"><img src="/static/img/kyoto.png" /></a>
-    <a href="https://team.inria.fr/sequel/"><img src="/static/img/inria.jpg" /></a>
+    <a href="https://team.inria.fr/soda/"><img src="/static/img/inria.jpg" /></a>
     <a href="http://www.centralesupelec.fr/en"><img src="/static/img/cs.png" /></a>
 </div>
 
@@ -10,7 +10,7 @@ We host a fully virtual half-day workshop colocated with the [AIED 2020](https:/
 
 **What should we learn next?** In this current era where digital access to knowledge is cheap and user attention is expensive, a number of online applications have been developed for learning. These platforms collect a massive amount of data over various profiles, that can be used to improve learning experience: intelligent tutoring systems can infer what activities worked for different types of students in the past, and apply this knowledge to instruct new students. In order to learn effectively and efficiently, the experience should be adaptive: the sequence of activities should be tailored to the abilities and needs of each learner, in order to keep them stimulated and avoid boredom, confusion and dropout. In the context of reinforcement learning, we want to learn a policy to administer exercises or resources to individual students.
 
-Educational research communities have proposed models that predict mistakes and dropout, in order to detect students that need further instruction. Such models are usually calibrated on data collected in an offline scenario, and may not generalize well to new students. There is now a need to design online systems that continuously learn as data flows, and self-assess their strategies when interacting with new learners. These models have been already deployed in online commercial applications (ex. streaming, advertising, social networks) for optimizing interaction, click-through-rate, or profit. Can we use similar methods to enhance the performance of teaching in order to promote lifetime success? When optimizing human learning, which metrics should be optimized? Learner progress? Learner retention? User addiction? The diversity or coverage of the proposed activities? What the issues inherent to adapting the learning process in online settings, in terms of privacy, fairness (disparate impact, inadvertent discrimination), and robustness to adversaries trying to game the system?
+Educational research communities have proposed models that predict mistakes and dropout, in order to detect students that need further instruction. Such models are usually calibrated on data collected in an offline scenario, and may not generalize well to new students. There is now a need to design online systems that continuously learn as data flows, and self-assess their strategies when interacting with new learners. These models have been already deployed in online commercial applications (ex. streaming, advertising, social networks) for optimizing interaction, click-through-rate, or profit. Can we use similar methods to enhance the performance of teaching in order to promote lifetime success? When optimizing human learning, which metrics should be optimized? Learner progress? Learner retention? User addiction? The diversity or coverage of the proposed activities? What are the issues inherent to adapting the learning process in online settings, in terms of privacy, fairness (disparate impact, inadvertent discrimination), and robustness to adversaries trying to game the system?
 
 Student modeling for optimizing human learning is a rich and complex task that gathers methods from machine learning, cognitive science, educational data mining and psychometrics. This workshop welcomes researchers and practitioners in the following topics (this list is not exhaustive):
 
@@ -28,44 +28,23 @@ Student modeling for optimizing human learning is a rich and complex task that g
 
 # Program
 
-The conference starts on Monday July 6 at **1 PM UTC+1** (see your [local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Optimizing+Human+Learning+WASL+2020&iso=20200706T13&p1=60&ah=4) here).
+The conference starts on Tuesday March 19 at **9 AM JST**.
 
-Pacific  |  Eastern   |  Morocco  |  Central Europe  |  Japan     |
----------|------------|-----------|------------------|------------|------------------------------------------------------------------------------------------------------------------------------
-UTC-7       |  UTC-4        |  UTC+1        |  UTC+2               |  UTC+9         |
-5:00 AM  |  8:00 AM   |  1:00 PM  |  2:00 PM         |  9:00 PM   |  Welcome and Introduction
-5:30 AM  |  8:30 AM   |  1:30 PM  |  2:30 PM         |  9:30 PM   |  Invited talk: [Teaching Categories to Human Learners with Visual Explanations](https://arxiv.org/pdf/1802.06924.pdf) [[intro video]](https://www.youtube.com/watch?v=bD0v4szglg0) [[slides]](https://jiji.cat/wasl2020/slides-visual-mac-aodha.pdf)<br />[Oisin Mac Aodha](https://homepages.inf.ed.ac.uk/omacaod/), University of Edinburgh
-6:00 AM  |  9:00 AM   |  2:00 PM  |  3:00 PM         |  10:00 PM  |  [Non-compensatory Knowledge Tracing with Local Variational Approximation](https://jiji.cat/wasl2020/non-compensatory-kt-final.pdf) [[slides]](https://jiji.cat/wasl2020/slides-non-compensatory-kt-tamano.pdf)<br />Hiroshi Tamano, NEC & The Graduate University for Advanced Studies, Japan
-         |            |           |                  |            |  15 min break
-6:45 AM  |  9:45 AM   |  2:45 PM  |  3:45 PM         |  10:45 PM  |  Invited talk: [Teaching Multiple Concepts to a Forgetful Learner](https://arxiv.org/pdf/1805.08322.pdf)<br />[Yuxin Chen](https://yuxinchen.org/), University of Chicago [[slides]](https://jiji.cat/wasl2020/slides-forgetful-chen.pdf)
-7:15 AM  |  10:15 AM  |  3:15 PM  |  4:15 PM         |  11:15 PM  |  [Adaptive Quiz Generation Using Thompson Sampling](https://jiji.cat/wasl2020/adaptive-quiz-generation.pdf)<br />[Fuhua Lin](http://oscar.athabascau.ca/), Athabasca University, Canada [[slides]](https://jiji.cat/wasl2020/slides-thompson-lin.pdf)
-         |            |           |                  |            |  15 min break
-8:00 AM  |  11:00 AM  |  4:00 PM  |  5:00 PM         |  12:00 AM  |  Open Discussion
-8:30 AM  |  11:30 AM  |  4:30 PM  |  5:30 PM         |  12:30 AM  |  End
+Program TBA
 
 # Registration
 
-The Optimizing Human Learning workshop will be held online via BigBlueButton.
+The Optimizing Human Learning workshop will be held in Kyoto.
 
-[**Register now**](https://attendify.co/aied-2020-hYsvyTU) by selecting **Workshop Four**.
-
-Price is 11.25 GBP for students (tax included), 21.50 GBP for others. It includes a small registration fee.
+[**Register soon**](https://www.solaresearch.org/events/lak/lak24/registration/)
 
 # Important Dates
 
-June 20 – [AoE](https://www.timeanddate.com/time/zones/aoe)
+Dec 4, 2023 – [AoE](https://www.timeanddate.com/time/zones/aoe)
 
-:   Deadline for paper submissions - [CFP on EasyChair](https://easychair.org/my/conference?conf=wasl2020)
+:   Deadline for paper submissions - CFP on EasyChair TBA
 
-June 27
-
-:   Notification for acceptance
-
-July 5
-
-:   Camera-ready version due
-
-July 6 1pm-5pm (GMT+1) (see your [local time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Optimizing+Human+Learning+WASL+2020&iso=20200706T13&p1=60&ah=4) here)
+March 19, 2024, 9 AM JST
 
 :   Optimizing Human Learning Workshop
 
@@ -79,7 +58,7 @@ Full papers
 
 :    Between 4 and 6 pages
 
-Submissions will be made through [EasyChair](https://easychair.org/my/conference?conf=wasl2020) and should follow the [LNCS format](http://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines).
+Submissions will be made through EasyChair and should follow the [LNCS format](http://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines).
 
 # Workshop Topics
 
@@ -125,4 +104,4 @@ To contact us, join our Google group: [optimizing-human-learning](https://groups
 [Jill-Jênn Vie](https://jjv.ie), Inria, France  
 [Fabrice Popineau](http://fabrice.popineau.net/), CentraleSupélec & LRI, France  
 [Hisashi Kashima](https://hkashima.github.io/index_e.html), Kyoto University, Japan  
-Benoît Choffin, CentraleSupélec & LRI, France
+Samuel Girard, Inria, France
