@@ -101,7 +101,7 @@ To contact us, join our Google group: [optimizing-human-learning](https://groups
 
 ## Workshop Chairs
 
-Samuel Girard, Inria, France
+Samuel Girard, Inria, France  
 [Hisashi Kashima](https://hkashima.github.io/index_e.html), Kyoto University, Japan  
 [Fabrice Popineau](http://fabrice.popineau.net/), CentraleSupélec & LRI, France  
 [Jill-Jênn Vie](https://jjv.ie), Inria, France  
