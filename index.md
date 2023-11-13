@@ -42,7 +42,7 @@ The Optimizing Human Learning workshop will be held in Kyoto.
 
 Dec 4, 2023 – [AoE](https://www.timeanddate.com/time/zones/aoe)
 
-:   Deadline for paper submissions - CFP on EasyChair TBA
+:   Deadline for paper submissions - CFP on [EasyChair](https://easychair.org/conferences/?conf=wasl2024)
 
 March 19, 2024, 9 AM JST
 
@@ -58,7 +58,7 @@ Full papers
 
 :    Between 4 and 6 pages
 
-Submissions will be made through EasyChair and should follow the [LNCS format](http://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines).
+Submissions can be made through [EasyChair](https://easychair.org/conferences/?conf=wasl2024) and should follow the [LNCS format](http://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines).
 
 # Workshop Topics
 
