@@ -1,38 +1,38 @@
-Deadline extension to June 20 - Optimizing Human Learning at AIED, fully virtual, 6 or 10 July 2020
+CFP WASL 2024: Optimizing Human Learning @ LAK Kyoto, 19 March 2024 - Deadline: 4 December 2023
 
 * Apologies for cross-posting *
 
-The submission deadline has been EXTENDED to 20 June 2020 23:59 AoE.
+The submission deadline is 4 December 2023 23:59 AoE.
 Anywhere on Earth (AoE) is 12 hours behind Coordinated Universal Time (UTC).
+
 
 --------------------------------------------------------------------------------
                                 Call for Papers
 --------------------------------------------------------------------------------
 
                            Optimizing Human Learning
-Third International Workshop eliciting Adaptive Sequences for Learning (WASL)
-                         Cyberspace, 6 or 10 July 2020
+Fourth International Workshop eliciting Adaptive Sequences for Learning (WASL)
+                              Kyoto, 19 March 2024
                              https://humanlearn.io/
 
 Held in conjunction with:
-21st International Conference on Artificial Intelligence in Education (AIED 2020)
-6-10 July 2020, Cyberspace
-https://aied2020.nees.com.br/
+14th International Learning Analytics and Knowledge Conference (LAK 2024)
+18-22 March 2024, Kyoto
+https://www.solaresearch.org/events/lak/lak24/
 
 
 --------------------------------------------------------------------------------
                                 Important Dates
 --------------------------------------------------------------------------------
 
-Submission deadline:            20 June 2020 (23:59 AoE - Anywhere on Earth)
-Notification of Acceptance:     27 June 2020
-Workshop date:             6 or 10 July 2020, fully virtual
+Submission deadline:         4 December 2023 (23:59 AoE - Anywhere on Earth)
+Notification of Acceptance:   8 January 2024 or before
+Workshop date:                 19 March 2024 (9:00 JST)
 
 
 --------------------------------------------------------------------------------
                                   Description
 --------------------------------------------------------------------------------
-
 
 What should we learn next? In this current era where digital access to
 knowledge is cheap and user attention is expensive, a number of online
@@ -54,7 +54,13 @@ when interacting with new learners. These models have been already
 deployed in online commercial applications (ex. streaming,
 advertising, social networks) for optimizing interaction,
 click-through-rate, or profit. Can we use similar methods to enhance
-the performance of teaching in order to promote lifetime success?
+the performance of teaching in order to promote lifetime success? When
+optimizing human learning, which metrics should be optimized? Learner
+progress? Learner retention? User addiction? The diversity or coverage
+of the proposed activities? What are the issues inherent to adapting
+the learning process in online settings, in terms of privacy, fairness
+(disparate impact, inadvertent discrimination), and robustness to
+adversaries trying to game the system?
 
 Student modeling for optimizing human learning is a rich and complex
 task that gathers methods from machine learning, cognitive science,
@@ -76,38 +82,50 @@ following topics (this list is not exhaustive):
 
 
 --------------------------------------------------------------------------------
+                                Tentative Program
+--------------------------------------------------------------------------------
+
+- Invited & Accepted Talks
+- Keynote by Aritra Ghosh (Meta) & Andrew Lan (University of Massachusetts, Amherst)
+- Tutorial by Yizhu Gao (University of Georgia) & Yong Zheng (Illinois Institute of Technology)
+
+
+--------------------------------------------------------------------------------
                                    Submission
 --------------------------------------------------------------------------------
 
 Short papers
     Between 2 and 3 pages, LNCS format
-    http://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines
+    https://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines
 
 Full papers
     Between 4 and 6 pages, LNCS format
-    http://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines
+    https://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines
 
 Submissions can be made through EasyChair:
-    https://easychair.org/my/conference?conf=wasl2020
+    https://easychair.org/conferences/?conf=wasl2024
 
 
 --------------------------------------------------------------------------------
                        Workshop Chairs & Program Committee
 --------------------------------------------------------------------------------
 
-Jill-Jênn Vie, Inria Lille, France
-Fabrice Popineau, LRI/CentraleSupélec, Orsay, France
+Samuel Girard, Inria, France
 Hisashi Kashima, Kyoto University, Japan
-Benoît Choffin, LRI/CentraleSupélec, Orsay, France
+Fabrice Popineau, CentraleSupélec & LISN, France
+Jill-Jênn Vie, Inria, France
+Jacob Whitehill, Worcester Polytechnique Institute, USA
+Yong Zheng, Illinois Institute of Technology, USA
 
 
 --------------------------------------------------------------------------------
                                     Contact
 --------------------------------------------------------------------------------
 
-E-mail: wasl2020@easychair.org
+E-mail: jill-jenn.vie@inria.fr
+Google Group: https://groups.google.com/forum/#!forum/optimizing-human-learning
 Web page: https://humanlearn.io/
 
 -- 
-Optimizing Human Learning
+Optimizing Human Learning 2024
 https://humanlearn.io/

@@ -101,7 +101,15 @@ To contact us, join our Google group: [optimizing-human-learning](https://groups
 
 ## Workshop Chairs
 
-[Jill-Jênn Vie](https://jjv.ie), Inria, France  
-[Fabrice Popineau](http://fabrice.popineau.net/), CentraleSupélec & LRI, France  
-[Hisashi Kashima](https://hkashima.github.io/index_e.html), Kyoto University, Japan  
 Samuel Girard, Inria, France
+[Hisashi Kashima](https://hkashima.github.io/index_e.html), Kyoto University, Japan  
+[Fabrice Popineau](http://fabrice.popineau.net/), CentraleSupélec & LRI, France  
+[Jill-Jênn Vie](https://jjv.ie), Inria, France  
+[Yong Zheng](https://itm.iit.edu/zheng/index.html), Illinois Institute of Technology, USA
+
+## Program Committee
+
+[Hisashi Kashima](https://hkashima.github.io/index_e.html), Kyoto University, Japan  
+[Fabrice Popineau](http://fabrice.popineau.net/), CentraleSupélec & LRI, France  
+[Jill-Jênn Vie](https://jjv.ie), Inria, France  
+[Jacob Whitehill](https://www.wpi.edu/people/faculty/jrwhitehill), Worcester Polytechnic Institute, USA
