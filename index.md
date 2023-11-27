@@ -40,9 +40,17 @@ The Optimizing Human Learning workshop will be held in Kyoto.
 
 # Important Dates
 
-Dec 4, 2023 – [AoE](https://www.timeanddate.com/time/zones/aoe)
+Dec 16 (extended), 2023 – [AoE](https://www.timeanddate.com/time/zones/aoe)
 
 :   Deadline for paper submissions - CFP on [EasyChair](https://easychair.org/conferences/?conf=wasl2024)
+
+January 13, 2024 or before
+
+:   Notification of acceptance
+
+January 29, 2024
+
+:   Early bird registration
 
 March 19, 2024, 9 AM JST
 
