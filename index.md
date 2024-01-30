@@ -30,13 +30,27 @@ Student modeling for optimizing human learning is a rich and complex task that g
 
 The conference starts on Tuesday March 19 at **9 AM JST**.
 
-Program TBA
+Keynote
+:   
+Aritra Ghosh (Meta), Andrew Lan (University of Massachussetts Amherst)
+
+Tutorial 1
+:   
+Adaptive Learning Systems and their Overall Effectiveness in Learning Gains, Yong Zheng (Illinois Institute of Technology)
+
+Tutorial 2
+:   
+Challenges in Educational Recommender Systems, Yizhu Gao (University of Georgia)
+
+Tutorial 3
+:   
+Contextual Bandits and Reinforcement Learning with Human Feedback, Jill-Jênn Vie (Inria, France)
 
 # Registration
 
 The Optimizing Human Learning workshop will be held in Kyoto.
 
-[**Register soon**](https://www.solaresearch.org/events/lak/lak24/registration/)
+[**Register now**](https://www.solaresearch.org/events/lak/lak24/registration/)
 
 # Important Dates
 
@@ -48,7 +62,7 @@ January 13, 2024 or before
 
 :   Notification of acceptance
 
-January 29, 2024
+Feb 5, 2024
 
 :   Early bird registration
 
@@ -109,6 +123,7 @@ To contact us, join our Google group: [optimizing-human-learning](https://groups
 
 ## Workshop Chairs
 
+[Yizhu Gao](https://people.coe.uga.edu/yizhu-gao/), University of Georgia  
 Samuel Girard, Inria, France  
 [Hisashi Kashima](https://hkashima.github.io/index_e.html), Kyoto University, Japan  
 [Fabrice Popineau](http://fabrice.popineau.net/), CentraleSupélec & LRI, France  
