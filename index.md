@@ -32,19 +32,22 @@ The conference starts on Tuesday March 19 at **9 AM JST**.
 
 Keynote
 :   
-Aritra Ghosh (Meta), Andrew Lan (University of Massachussetts Amherst)
+[Aritra Ghosh](https://arghosh.github.io/) (Meta), [Andrew Lan](https://people.umass.edu/~andrewlan/) (University of Massachussetts Amherst)
 
 Tutorial 1
 :   
-Adaptive Learning Systems and their Overall Effectiveness in Learning Gains, Yong Zheng (Illinois Institute of Technology)
+**Adaptive Learning Systems and their Overall Effectiveness in Learning Gains**  
+[Yong Zheng](https://itm.iit.edu/zheng/index.html) (Illinois Institute of Technology)
 
 Tutorial 2
 :   
-Challenges in Educational Recommender Systems, Yizhu Gao (University of Georgia)
+**Challenges in Educational Recommender Systems**  
+[Yizhu Gao](https://people.coe.uga.edu/yizhu-gao/) (University of Georgia)
 
 Tutorial 3
 :   
-Contextual Bandits and Reinforcement Learning with Human Feedback, Jill-Jênn Vie (Inria, France)
+**Contextual Bandits and Reinforcement Learning with Human Feedback**  
+[Jill-Jênn Vie](https://jjv.ie) (Inria, France)
 
 # Registration
 
