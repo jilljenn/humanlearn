@@ -37,12 +37,12 @@ Keynote
 Tutorial 1
 :   
 **Adaptive Learning Systems and their Overall Effectiveness in Learning Gains**  
-[Yong Zheng](https://itm.iit.edu/zheng/index.html) (Illinois Institute of Technology)
+[Yizhu Gao](https://people.coe.uga.edu/yizhu-gao/) (University of Georgia)
 
 Tutorial 2
 :   
 **Challenges in Educational Recommender Systems**  
-[Yizhu Gao](https://people.coe.uga.edu/yizhu-gao/) (University of Georgia)
+[Yong Zheng](https://itm.iit.edu/zheng/index.html) (Illinois Institute of Technology)
 
 Tutorial 3
 :   
