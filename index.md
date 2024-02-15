@@ -1,9 +1,9 @@
 We host a physical full-day workshop colocated with the [LAK 2024](https://www.solaresearch.org/events/lak/lak24/) conference to discuss specific algorithmic and machine learning issues for optimizing human learning.
 
 <div id="logos" class="responsive">
-    <a href="https://www.kyoto-u.ac.jp/en/"><img src="/static/img/kyoto.png" /></a>
-    <a href="https://team.inria.fr/soda/"><img src="/static/img/inria.jpg" /></a>
-    <a href="http://www.centralesupelec.fr/en"><img src="/static/img/cs.png" /></a>
+    <a href="https://www.kyoto-u.ac.jp/en/"><img src="static/img/kyoto.png" /></a>
+    <a href="https://team.inria.fr/soda/"><img src="static/img/inria.jpg" /></a>
+    <a href="http://www.centralesupelec.fr/en"><img src="static/img/cs.png" /></a>
 </div>
 
 # Motivation
