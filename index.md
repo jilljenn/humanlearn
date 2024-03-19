@@ -30,8 +30,9 @@ Student modeling for optimizing human learning is a rich and complex task that g
 
 The conference starts on Tuesday March 19 at **9 AM JST**.
 
-Keynote
+[Keynote](https://drive.google.com/file/d/1dCWJULUOYIMv57pnLXxqn5faKlQgHf45/view?usp=sharing)
 :   
+[Towards building a simulated agent [slides]](https://drive.google.com/file/d/1dCWJULUOYIMv57pnLXxqn5faKlQgHf45/view?usp=sharing)  
 [Aritra Ghosh](https://arghosh.github.io/) (Meta), [Andrew Lan](https://people.umass.edu/~andrewlan/) (University of Massachussetts Amherst)
 
 Tutorial 1
