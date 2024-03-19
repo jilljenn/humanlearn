@@ -2,7 +2,7 @@ We host a physical full-day workshop colocated with the [LAK 2024](https://www.s
 
 <div id="logos" class="responsive">
     <a href="https://www.kyoto-u.ac.jp/en/"><img src="static/img/kyoto.png" /></a>
-    <a href="https://team.inria.fr/soda/"><img src="static/img/inria.jpg" /></a>
+    <a href="https://team.inria.fr/soda/"><img src="static/img/inria.png" /></a>
     <a href="http://www.centralesupelec.fr/en"><img src="static/img/cs.png" /></a>
 </div>
 
@@ -32,7 +32,7 @@ The conference starts on Tuesday March 19 at **9 AM JST**.
 
 [Keynote](https://drive.google.com/file/d/1dCWJULUOYIMv57pnLXxqn5faKlQgHf45/view?usp=sharing)
 :   
-[Towards building a simulated agent [slides]](https://drive.google.com/file/d/1dCWJULUOYIMv57pnLXxqn5faKlQgHf45/view?usp=sharing)  
+[**Towards building a simulated agent** [slides]](https://drive.google.com/file/d/1dCWJULUOYIMv57pnLXxqn5faKlQgHf45/view?usp=sharing)  
 [Aritra Ghosh](https://arghosh.github.io/) (Meta), [Andrew Lan](https://people.umass.edu/~andrewlan/) (University of Massachussetts Amherst)
 
 Tutorial 1
@@ -47,7 +47,7 @@ Tutorial 2
 
 Tutorial 3
 :   
-**Contextual Bandits and Reinforcement Learning with Human Feedback**  
+[**Contextual Bandits and Reinforcement Learning with Human Feedback** [slides]](/static/slides/wasl2024.pdf) 
 [Jill-Jênn Vie](https://jjv.ie) (Inria, France)
 
 # Registration
