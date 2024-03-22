@@ -42,7 +42,7 @@ Tutorial 1
 
 Tutorial 2
 :   
-**Challenges in Educational Recommender Systems**  
+[**Challenges in Educational Recommender Systems** [slides]](https://drive.google.com/file/d/1u4qK0l-S3StxsYmztzT1m4n8JHEYJ9YS/view?usp=sharing)  
 [Yong Zheng](https://itm.iit.edu/zheng/index.html) (Illinois Institute of Technology)
 
 Tutorial 3
