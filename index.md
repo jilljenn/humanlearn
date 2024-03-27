@@ -37,7 +37,7 @@ The conference starts on Tuesday March 19 at **9 AM JST**.
 
 Tutorial 1
 :   
-**Adaptive Learning Systems and their Overall Effectiveness in Learning Gains**  
+[**Adaptive Learning Systems and their Overall Effectiveness in Learning Gains** [slides]](https://drive.google.com/file/d/1tUTqfaiR9D9UHtAtn3SW-w3UBpEigW0f/view?usp=sharing)  
 [Yizhu Gao](https://people.coe.uga.edu/yizhu-gao/) (University of Georgia)
 
 Tutorial 2
@@ -47,7 +47,7 @@ Tutorial 2
 
 Tutorial 3
 :   
-[**Contextual Bandits and Reinforcement Learning with Human Feedback** [slides]](/static/slides/wasl2024.pdf) 
+[**Contextual Bandits and Reinforcement Learning with Human Feedback** [slides]](/static/slides/wasl2024.pdf)  
 [Jill-Jênn Vie](https://jjv.ie) (Inria, France)
 
 # Registration
